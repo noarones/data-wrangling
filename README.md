@@ -1,26 +1,26 @@
 # Learning Data Engineering
 
-> "Aprender haciendo, entendiendo y documentando cada paso."
+> "Registro de los conocimientos interiorizados y practicados"
 
 ---
 
 ## Sobre este repositorio
 
-Este repositorio documenta mi **proceso de aprendizaje en Data Engineering** y en general en el ecosistema de datos.  
-Aquí registro:
+Este repositorio documenta mi **proceso de practica diaria en Data Manipulation y Data Wrangling** especificamente.  
+Se registra:
 
-- Lo que **interiorizo y comprendo** de cada tema.  
-- Los **proyectos y ejercicios prácticos** que desarrollo.  
+- Conceptos interiorizados y puestos en practica de cada tema.  
+- Los **proyectos y ejemplos** que desarrollo.  
 - Las **decisiones de aprendizaje** que tomo para mejorar mi enfoque.  
 
-Mi metodología se basa en el principio de **Project-Oriented Learning**:  
-Aprender construyendo, reflexionando sobre los errores y compartiendo el proceso.
+Se intentara en los conceptos fundamentales una metodologia **Project-Oriented Learning**:  
+Aprender construyendo, haciendo hincapie en errores tipicos y como manejarlos para finalmente compartir el proceso.
 
 ---
 
 ## Libros base
 
-Hasta el momento, mi fuente principal de estudio es:
+Como bibliografia basica usare los recursos de Internet que a mi juicio son conocidos, actualizados recientemente y fiables:
 
 - **“Python for Data Analysis”** – Wes McKinney *(O’Reilly)*  
   Fundamentos de *pandas*, *NumPy*, limpieza y exploración de datos.
