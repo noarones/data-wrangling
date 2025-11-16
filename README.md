@@ -6,7 +6,7 @@
 
 ## Sobre este repositorio
 
-Este repositorio documenta mi **proceso de practica diaria en Data Manipulation y Data Wrangling** especificamente.  
+Este repositorio documenta mi **proceso de practica diaria en Data Wrangling** especificamente.  
 Se registra:
 
 - Conceptos interiorizados y puestos en practica de cada tema.  
