@@ -25,10 +25,6 @@ Como bibliografia basica usare los recursos de Internet que a mi juicio son cono
 - **“Python for Data Analysis”** – Wes McKinney *(O’Reilly)*  
   Fundamentos de *pandas*, *NumPy*, limpieza y exploración de datos.
 
-Próximos recursos previstos:  
-- “Practical Statistics for Data Scientists” – Bruce & Bruce  
-- “Introduction to Machine Learning with Python” – Müller & Guido  
-
 ---
 
 ## Estructura del repositorio
