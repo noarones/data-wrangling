@@ -6,14 +6,14 @@
 
 ## Sobre este repositorio
 
-Este repositorio documenta mi **proceso de practica diaria en Data Wrangling** especificamente.  
+Este repositorio documenta mi **proceso de practica diaria en un recorrido fundamental de manipulacion de datos, limpieza y representacion** especificamente.  
 Se registra:
 
 - Conceptos interiorizados y puestos en practica de cada tema.  
 - Los **proyectos y ejemplos** que desarrollo.  
 - Las **decisiones de aprendizaje** que tomo para mejorar mi enfoque.  
 
-Se intentara en los conceptos fundamentales una metodologia **Project-Oriented Learning**:  
+Se priorizara en los conceptos mas relevantes una metodologia **Project-Oriented Learning**:  
 Aprender construyendo, haciendo hincapie en errores tipicos y como manejarlos para finalmente compartir el proceso.
 
 ---
