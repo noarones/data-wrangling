@@ -1,4 +1,4 @@
-# Learning Data Engineering
+
 
 > "Registro de los conocimientos interiorizados y practicados"
 
