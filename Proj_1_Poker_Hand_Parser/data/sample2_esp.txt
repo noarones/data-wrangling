@@ -1,0 +1,3631 @@
+*********** n. 1 **************
+Mano n.º 258500572873 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:48:14 CET [13-11-2025 14:48:14 ET]
+Mesa "Sextans III" 6-max El asiento n.º 3 es el botón
+Asiento 1: noarones (18.55 € en fichas)
+Asiento 2: Vampire1566 (10.71 € en fichas)
+Asiento 3: AnxoGM (10 € en fichas)
+Asiento 6: ramonyap (16.21 € en fichas)
+A guerra123411 se le permitirá jugar después del botón
+A EduOjeda55 se le permitirá jugar después del botón
+ramonyap: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [4d Qd]
+Vampire1566: iguala 0.10 €
+AnxoGM: se retira
+ramonyap: se retira
+noarones: pasa
+*** FLOP *** [3s 3d 6c]
+noarones: pasa
+Vampire1566: apuesta 0.20 €
+noarones: se retira
+La apuesta no igualada (0.20 €) ha sido devuelta a Vampire1566
+Vampire1566 se lleva 0.23 € del bote
+Vampire1566: no muestra su mano
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0.02 €
+Comunitarias [3s 3d 6c]
+Asiento 1: noarones (ciega grande) se retiró en el Flop
+Asiento 2: Vampire1566 recaudó (0.23 €)
+Asiento 3: AnxoGM (botón) se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 2 **************
+Mano n.º 258500561343 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:47:25 CET [13-11-2025 14:47:25 ET]
+Mesa "Sextans III" 6-max El asiento n.º 2 es el botón
+Asiento 1: noarones (18.55 € en fichas)
+Asiento 2: Vampire1566 (10.71 € en fichas)
+Asiento 3: AnxoGM (10.38 € en fichas)
+Asiento 6: ramonyap (15.62 € en fichas)
+AnxoGM: pone la ciega pequeña 0.05 €
+ramonyap: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [3h 8c]
+noarones: se retira
+guerra123411 se une a la mesa en el asiento n.º 4
+EduOjeda55 se une a la mesa en el asiento n.º 5
+Vampire1566: se retira
+AnxoGM: sube 0.20 € a 0.30 €
+ramonyap: iguala 0.20 €
+*** FLOP *** [9h 5s 5c]
+AnxoGM: apuesta 0.37 €
+ramonyap: iguala 0.37 €
+*** TURN *** [9h 5s 5c] [2d]
+AnxoGM: pasa
+ramonyap: apuesta 0.63 €
+AnxoGM: se retira
+La apuesta no igualada (0.63 €) ha sido devuelta a ramonyap
+ramonyap se lleva 1.26 € del bote
+ramonyap: no muestra su mano
+*** RESUMEN ***
+Bote total 1.34 € | Comisión 0.08 €
+Comunitarias [9h 5s 5c 2d]
+Asiento 1: noarones se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 (botón) se retiró antes del Flop (no apostó)
+Asiento 3: AnxoGM (ciega pequeña) se retiró en el Turn
+Asiento 6: ramonyap (ciega grande) recaudó (1.26 €)
+
+
+*********** n. 3 **************
+Mano n.º 258500555199 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:46:58 CET [13-11-2025 14:46:58 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 4 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 2: RemiC27 (11.83 € en fichas)
+Asiento 3: pintas76 (10 € en fichas)
+Asiento 4: marco_200150 (10 € en fichas)
+Asiento 5: Babu_Sloth (12.15 € en fichas)
+Asiento 6: noarones (17.20 € en fichas)
+Babu_Sloth: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Jc 4d]
+alhambra111: se retira
+RemiC27: iguala 0.10 €
+pintas76: se retira
+marco_200150: se retira
+Babu_Sloth: iguala 0.05 €
+noarones: pasa
+*** FLOP *** [7s Kc 3c]
+Babu_Sloth: pasa
+noarones: pasa
+RemiC27: apuesta 0.28 €
+Babu_Sloth: se retira
+noarones: se retira
+La apuesta no igualada (0.28 €) ha sido devuelta a RemiC27
+RemiC27 se lleva 0.28 € del bote
+RemiC27: no muestra su mano
+*** RESUMEN ***
+Bote total 0.30 € | Comisión 0.02 €
+Comunitarias [7s Kc 3c]
+Asiento 1: alhambra111 se retiró antes del Flop (no apostó)
+Asiento 2: RemiC27 recaudó (0.28 €)
+Asiento 3: pintas76 se retiró antes del Flop (no apostó)
+Asiento 4: marco_200150 (botón) se retiró antes del Flop (no apostó)
+Asiento 5: Babu_Sloth (ciega pequeña) se retiró en el Flop
+Asiento 6: noarones (ciega grande) se retiró en el Flop
+
+
+*********** n. 4 **************
+Mano n.º 258500548547 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:46:30 CET [13-11-2025 14:46:30 ET]
+Mesa "Themis III" 6-max El asiento n.º 2 es el botón
+Asiento 1: pinochopoker (12.42 € en fichas)
+Asiento 2: marry24 (11.86 € en fichas)
+Asiento 4: Heavengods (15.54 € en fichas)
+Asiento 5: anny road (10.75 € en fichas)
+Asiento 6: noarones (15.41 € en fichas)
+A 3ytor se le permitirá jugar después del botón
+Heavengods: pone la ciega pequeña 0.05 €
+anny road: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [8d 6c]
+noarones: se retira
+pinochopoker: se retira
+marry24: se retira
+Heavengods: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a anny road
+anny road se lleva 0.10 € del bote
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: pinochopoker se retiró antes del Flop (no apostó)
+Asiento 2: marry24 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods (ciega pequeña) se retiró antes del Flop
+Asiento 5: anny road (ciega grande) recaudó (0.10 €)
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 5 **************
+Mano n.º 258500548236 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:46:29 CET [13-11-2025 14:46:29 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 4 es el botón
+Asiento 1: Sr.littel (12.20 € en fichas)
+Asiento 2: noarones (14.28 € en fichas)
+Asiento 3: GabVal3127 (19.59 € en fichas)
+Asiento 4: danydu0057@ (4.39 € en fichas)
+Asiento 5: mivipkr (20.33 € en fichas)
+Asiento 6: Hard0Shade (7.04 € en fichas)
+mivipkr: pone la ciega pequeña 0.05 €
+Hard0Shade: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [6s 4s]
+Sr.littel: sube 0.15 € a 0.25 €
+noarones: se retira
+GabVal3127: se retira
+danydu0057@: se retira
+mivipkr: se retira
+Hard0Shade: se retira
+La apuesta no igualada (0.15 €) ha sido devuelta a Sr.littel
+Sr.littel se lleva 0.25 € del bote
+Sr.littel: no muestra su mano
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0 €
+Asiento 1: Sr.littel recaudó (0.25 €)
+Asiento 2: noarones se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ (botón) se retiró antes del Flop (no apostó)
+Asiento 5: mivipkr (ciega pequeña) se retiró antes del Flop
+Asiento 6: Hard0Shade (ciega grande) se retiró antes del Flop
+
+
+*********** n. 6 **************
+Mano n.º 258500547018 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:46:24 CET [13-11-2025 14:46:24 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 3 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 2: RemiC27 (12.63 € en fichas)
+Asiento 3: pintas76 (10 € en fichas)
+Asiento 4: marco_200150 (10.27 € en fichas)
+Asiento 5: Babu_Sloth (10.69 € en fichas)
+Asiento 6: noarones (17.20 € en fichas)
+marco_200150: pone la ciega pequeña 0.05 €
+Babu_Sloth: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Ks Jc]
+noarones: se retira
+alhambra111: se retira
+RemiC27: iguala 0.10 €
+pintas76: se retira
+marco_200150: sube 0.70 € a 0.80 €
+Babu_Sloth: iguala 0.70 €
+RemiC27: iguala 0.70 €
+*** FLOP *** [Kh 6c 7h]
+marco_200150: pasa
+Babu_Sloth: pasa
+RemiC27: pasa
+*** TURN *** [Kh 6c 7h] [Td]
+marco_200150: pasa
+Babu_Sloth: apuesta 1.13 €
+RemiC27: se retira
+marco_200150: se retira
+La apuesta no igualada (1.13 €) ha sido devuelta a Babu_Sloth
+Babu_Sloth se lleva 2.26 € del bote
+Babu_Sloth: no muestra su mano
+*** RESUMEN ***
+Bote total 2.40 € | Comisión 0.14 €
+Comunitarias [Kh 6c 7h Td]
+Asiento 1: alhambra111 se retiró antes del Flop (no apostó)
+Asiento 2: RemiC27 se retiró en el Turn
+Asiento 3: pintas76 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: marco_200150 (ciega pequeña) se retiró en el Turn
+Asiento 5: Babu_Sloth (ciega grande) recaudó (2.26 €)
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 7 **************
+Mano n.º 258500541662 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:46:01 CET [13-11-2025 14:46:01 ET]
+Mesa "Sextans III" 6-max El asiento n.º 1 es el botón
+Asiento 1: noarones (17.57 € en fichas)
+Asiento 2: Vampire1566 (10.96 € en fichas)
+Asiento 3: AnxoGM (11.23 € en fichas)
+Asiento 5: NicoStar007 (11.23 € en fichas)
+Asiento 6: ramonyap (15.62 € en fichas)
+Vampire1566: pone la ciega pequeña 0.05 €
+AnxoGM: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Ad 4s]
+SUB13000 deja la mesa
+NicoStar007: se retira
+ramonyap: se retira
+noarones: sube 0.15 € a 0.25 €
+Vampire1566: iguala 0.20 €
+AnxoGM: iguala 0.15 €
+*** FLOP *** [Th 9h Tc]
+Vampire1566: pasa
+AnxoGM: pasa
+noarones: apuesta 0.15 €
+Vampire1566: se retira
+AnxoGM: iguala 0.15 €
+*** TURN *** [Th 9h Tc] [Ac]
+AnxoGM: pasa
+noarones: apuesta 0.45 €
+AnxoGM: iguala 0.45 €
+*** RIVER *** [Th 9h Tc Ac] [5d]
+AnxoGM: pasa
+NicoStar007 deja la mesa
+noarones: pasa
+*** SHOW DOWN ***
+AnxoGM: muestra [Qc Jc] (pareja de dieces)
+noarones: muestra [Ad 4s] (doble pareja, ases y dieces)
+noarones se lleva 1.83 € del bote
+*** RESUMEN ***
+Bote total 1.95 € | Comisión 0.12 €
+Comunitarias [Th 9h Tc Ac 5d]
+Asiento 1: noarones (botón) muestra [Ad 4s] y ganó (1.83 €) con doble pareja, ases y dieces
+Asiento 2: Vampire1566 (ciega pequeña) se retiró en el Flop
+Asiento 3: AnxoGM (ciega grande) muestra [Qc Jc] y perdió con pareja de dieces
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap se retiró antes del Flop (no apostó)
+
+
+*********** n. 8 **************
+Mano n.º 258500535484 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:45:35 CET [13-11-2025 14:45:35 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 3 es el botón
+Asiento 1: Sr.littel (12.20 € en fichas)
+Asiento 2: noarones (14.28 € en fichas)
+Asiento 3: GabVal3127 (20.04 € en fichas)
+Asiento 4: danydu0057@ (3.90 € en fichas)
+Asiento 5: mivipkr (20.43 € en fichas)
+Asiento 6: Hard0Shade (7.04 € en fichas)
+danydu0057@: pone la ciega pequeña 0.05 €
+mivipkr: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [2c 4s]
+Hard0Shade: se retira
+Sr.littel: se retira
+noarones: se retira
+GabVal3127: sube 0.15 € a 0.25 €
+danydu0057@: iguala 0.20 €
+mivipkr: se retira
+*** FLOP *** [Qs 7h Kh]
+danydu0057@: pasa
+GabVal3127: apuesta 0.20 €
+danydu0057@: iguala 0.20 €
+*** TURN *** [Qs 7h Kh] [3d]
+danydu0057@: pasa
+GabVal3127: pasa
+*** RIVER *** [Qs 7h Kh 3d] [3c]
+danydu0057@: pasa
+GabVal3127: pasa
+*** SHOW DOWN ***
+danydu0057@: muestra [Kc 4c] (doble pareja, reyes y treses)
+GabVal3127: descarta su mano sin mostrar
+danydu0057@ se lleva 0.94 € del bote
+*** RESUMEN ***
+Bote total 1 € | Comisión 0.06 €
+Comunitarias [Qs 7h Kh 3d 3c]
+Asiento 1: Sr.littel se retiró antes del Flop (no apostó)
+Asiento 2: noarones se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 (botón) descartó sin mostrar [Ad 4h]
+Asiento 4: danydu0057@ (ciega pequeña) muestra [Kc 4c] y ganó (0.94 €) con doble pareja, reyes y treses
+Asiento 5: mivipkr (ciega grande) se retiró antes del Flop
+Asiento 6: Hard0Shade se retiró antes del Flop (no apostó)
+
+
+*********** n. 9 **************
+Mano n.º 258500532715 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:45:23 CET [13-11-2025 14:45:23 ET]
+Mesa "Themis III" 6-max El asiento n.º 1 es el botón
+Asiento 1: pinochopoker (12.66 € en fichas)
+Asiento 2: marry24 (11.91 € en fichas)
+Asiento 4: Heavengods (15.28 € en fichas)
+Asiento 5: anny road (10.75 € en fichas)
+Asiento 6: noarones (15.41 € en fichas)
+marry24: pone la ciega pequeña 0.05 €
+Heavengods: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [2h Tc]
+anny road: se retira
+noarones: se retira
+pinochopoker no tiene conexión
+pinochopoker tiene conexión
+SUB13000 deja la mesa
+pinochopoker: sube 0.14 € a 0.24 €
+marry24: se retira
+Heavengods: iguala 0.14 €
+*** FLOP *** [6c 5d 6s]
+Heavengods: pasa
+pinochopoker: pasa
+*** TURN *** [6c 5d 6s] [Qd]
+Heavengods: apuesta 0.40 €
+pinochopoker: se retira
+La apuesta no igualada (0.40 €) ha sido devuelta a Heavengods
+Heavengods se lleva 0.50 € del bote
+Heavengods: no muestra su mano
+3ytor se une a la mesa en el asiento n.º 3
+*** RESUMEN ***
+Bote total 0.53 € | Comisión 0.03 €
+Comunitarias [6c 5d 6s Qd]
+Asiento 1: pinochopoker (botón) se retiró en el Turn
+Asiento 2: marry24 (ciega pequeña) se retiró antes del Flop
+Asiento 4: Heavengods (ciega grande) recaudó (0.50 €)
+Asiento 5: anny road se retiró antes del Flop (no apostó)
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 10 **************
+Mano n.º 258500528437 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:45:05 CET [13-11-2025 14:45:05 ET]
+Mesa "Sextans III" 6-max El asiento n.º 6 es el botón
+Asiento 1: noarones (18.07 € en fichas)
+Asiento 2: Vampire1566 (10.52 € en fichas)
+Asiento 3: AnxoGM (11.23 € en fichas)
+Asiento 5: NicoStar007 (11.23 € en fichas)
+Asiento 6: ramonyap (15.62 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+Vampire1566: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [9s 9h]
+AnxoGM: se retira
+NicoStar007: se retira
+ramonyap: se retira
+noarones: sube 0.20 € a 0.30 €
+Vampire1566: iguala 0.20 €
+*** FLOP *** [Kh 2c 5d]
+noarones: apuesta 0.20 €
+Vampire1566: sube 0.30 € a 0.50 €
+noarones: se retira
+La apuesta no igualada (0.30 €) ha sido devuelta a Vampire1566
+Vampire1566 se lleva 0.94 € del bote
+Vampire1566: no muestra su mano
+*** RESUMEN ***
+Bote total 1 € | Comisión 0.06 €
+Comunitarias [Kh 2c 5d]
+Asiento 1: noarones (ciega pequeña) se retiró en el Flop
+Asiento 2: Vampire1566 (ciega grande) recaudó (0.94 €)
+Asiento 3: AnxoGM se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 11 **************
+Mano n.º 258500518398 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:44:22 CET [13-11-2025 14:44:22 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 2 es el botón
+Asiento 1: Sr.littel (12.20 € en fichas)
+Asiento 2: noarones (14.28 € en fichas)
+Asiento 3: GabVal3127 (18.87 € en fichas)
+Asiento 4: danydu0057@ (4.70 € en fichas)
+Asiento 5: mivipkr (20.43 € en fichas)
+Asiento 6: Hard0Shade (7.54 € en fichas)
+GabVal3127: pone la ciega pequeña 0.05 €
+danydu0057@: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [9c 7d]
+mivipkr: se retira
+Hard0Shade: sube 0.20 € a 0.30 €
+Sr.littel: se retira
+noarones: se retira
+GabVal3127: iguala 0.25 €
+danydu0057@: iguala 0.20 €
+*** FLOP *** [2c Qc Qh]
+GabVal3127: apuesta 0.20 €
+danydu0057@: iguala 0.20 €
+Hard0Shade: iguala 0.20 €
+*** TURN *** [2c Qc Qh] [7h]
+GabVal3127: apuesta 0.30 €
+danydu0057@: iguala 0.30 €
+Hard0Shade: se retira
+*** RIVER *** [2c Qc Qh 7h] [3s]
+GabVal3127: apuesta 0.40 €
+danydu0057@: se retira
+La apuesta no igualada (0.40 €) ha sido devuelta a GabVal3127
+GabVal3127 se lleva 1.97 € del bote
+GabVal3127: no muestra su mano
+*** RESUMEN ***
+Bote total 2.10 € | Comisión 0.13 €
+Comunitarias [2c Qc Qh 7h 3s]
+Asiento 1: Sr.littel se retiró antes del Flop (no apostó)
+Asiento 2: noarones (botón) se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 (ciega pequeña) recaudó (1.97 €)
+Asiento 4: danydu0057@ (ciega grande) se retiró en el River
+Asiento 5: mivipkr se retiró antes del Flop (no apostó)
+Asiento 6: Hard0Shade se retiró en el Turn
+
+
+*********** n. 12 **************
+Mano n.º 258500517178 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:44:17 CET [13-11-2025 14:44:17 ET]
+Mesa "Sextans III" 6-max El asiento n.º 5 es el botón
+Asiento 1: noarones (18.17 € en fichas)
+Asiento 2: Vampire1566 (10.52 € en fichas)
+Asiento 3: AnxoGM (11.88 € en fichas)
+Asiento 5: NicoStar007 (10.52 € en fichas)
+Asiento 6: ramonyap (15.67 € en fichas)
+ramonyap: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Kh 6c]
+Vampire1566: se retira
+AnxoGM: sube 0.15 € a 0.25 €
+NicoStar007: iguala 0.25 €
+ramonyap: se retira
+noarones: se retira
+*** FLOP *** [3d 7d Ts]
+AnxoGM: apuesta 0.40 €
+NicoStar007: iguala 0.40 €
+*** TURN *** [3d 7d Ts] [5d]
+AnxoGM: pasa
+NicoStar007: pasa
+*** RIVER *** [3d 7d Ts 5d] [5s]
+AnxoGM: pasa
+NicoStar007: pasa
+*** SHOW DOWN ***
+AnxoGM: muestra [9h 8h] (pareja de cincos)
+NicoStar007: muestra [8s 8d] (doble pareja, ochos y cincos)
+NicoStar007 se lleva 1.36 € del bote
+*** RESUMEN ***
+Bote total 1.45 € | Comisión 0.09 €
+Comunitarias [3d 7d Ts 5d 5s]
+Asiento 1: noarones (ciega grande) se retiró antes del Flop
+Asiento 2: Vampire1566 se retiró antes del Flop (no apostó)
+Asiento 3: AnxoGM muestra [9h 8h] y perdió con pareja de cincos
+Asiento 5: NicoStar007 (botón) muestra [8s 8d] y ganó (1.36 €) con doble pareja, ochos y cincos
+Asiento 6: ramonyap (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 13 **************
+Mano n.º 258500517061 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:44:17 CET [13-11-2025 14:44:17 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 2 es el botón
+Asiento 1: alhambra111 (10.60 € en fichas)
+Asiento 2: RemiC27 (9.13 € en fichas)
+Asiento 3: pintas76 (10.33 € en fichas)
+Asiento 4: marco_200150 (10.37 € en fichas)
+Asiento 5: Babu_Sloth (10.69 € en fichas)
+Asiento 6: noarones (17.20 € en fichas)
+pintas76: pone la ciega pequeña 0.05 €
+marco_200150: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [7h 6s]
+Babu_Sloth: se retira
+noarones: se retira
+alhambra111: sube 0.15 € a 0.25 €
+RemiC27: iguala 0.25 €
+pintas76: sube 0.85 € a 1.10 €
+marco_200150: se retira
+alhambra111: iguala 0.85 €
+RemiC27: iguala 0.85 €
+*** FLOP *** [Kc 9s Jd]
+pintas76: apuesta 0.80 €
+alhambra111: se retira
+RemiC27: sube 0.80 € a 1.60 €
+pintas76: iguala 0.80 €
+*** TURN *** [Kc 9s Jd] [Qh]
+pintas76: pasa
+RemiC27: apuesta 6.43 € y está all-in
+pintas76: se retira
+La apuesta no igualada (6.43 €) ha sido devuelta a RemiC27
+RemiC27 se lleva 6.20 € del bote
+RemiC27: no muestra su mano
+*** RESUMEN ***
+Bote total 6.60 € | Comisión 0.40 €
+Comunitarias [Kc 9s Jd Qh]
+Asiento 1: alhambra111 se retiró en el Flop
+Asiento 2: RemiC27 (botón) recaudó (6.20 €)
+Asiento 3: pintas76 (ciega pequeña) se retiró en el Turn
+Asiento 4: marco_200150 (ciega grande) se retiró antes del Flop
+Asiento 5: Babu_Sloth se retiró antes del Flop (no apostó)
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 14 **************
+Mano n.º 258500514770 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:44:07 CET [13-11-2025 14:44:07 ET]
+Mesa "Themis III" 6-max El asiento n.º 6 es el botón
+Asiento 1: pinochopoker (12.71 € en fichas)
+Asiento 2: marry24 (10.85 € en fichas)
+Asiento 3: SUB13000 (11.20 € en fichas)
+Asiento 4: Heavengods (15.28 € en fichas)
+Asiento 5: anny road (10.75 € en fichas)
+Asiento 6: noarones (16.56 € en fichas)
+pinochopoker: pone la ciega pequeña 0.05 €
+marry24: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Ah 9h]
+SUB13000: se retira
+Heavengods: se retira
+anny road: se retira
+noarones: sube 0.15 € a 0.25 €
+pinochopoker: se retira
+marry24: iguala 0.15 €
+*** FLOP *** [2d Tc 7d]
+marry24: pasa
+noarones: apuesta 0.15 €
+marry24: iguala 0.15 €
+*** TURN *** [2d Tc 7d] [3d]
+marry24: pasa
+noarones: apuesta 0.75 €
+marry24: sube 1.73 € a 2.48 €
+noarones: se retira
+La apuesta no igualada (1.73 €) ha sido devuelta a marry24
+marry24 se lleva 2.21 € del bote
+marry24: no muestra su mano
+*** RESUMEN ***
+Bote total 2.35 € | Comisión 0.14 €
+Comunitarias [2d Tc 7d 3d]
+Asiento 1: pinochopoker (ciega pequeña) se retiró antes del Flop
+Asiento 2: marry24 (ciega grande) recaudó (2.21 €)
+Asiento 3: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods se retiró antes del Flop (no apostó)
+Asiento 5: anny road se retiró antes del Flop (no apostó)
+Asiento 6: noarones (botón) se retiró en el Turn
+
+
+*********** n. 15 **************
+Mano n.º 258500512451 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:43:57 CET [13-11-2025 14:43:57 ET]
+Mesa "Themis III" 6-max El asiento n.º 5 es el botón
+Asiento 1: pinochopoker (12.66 € en fichas)
+Asiento 2: marry24 (10.85 € en fichas)
+Asiento 3: SUB13000 (11.20 € en fichas)
+Asiento 4: Heavengods (15.28 € en fichas)
+Asiento 5: anny road (10.75 € en fichas)
+Asiento 6: noarones (16.61 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+pinochopoker: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [7d 6s]
+marry24: se retira
+SUB13000: se retira
+Heavengods: se retira
+anny road: se retira
+noarones: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a pinochopoker
+pinochopoker se lleva 0.10 € del bote
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: pinochopoker (ciega grande) recaudó (0.10 €)
+Asiento 2: marry24 se retiró antes del Flop (no apostó)
+Asiento 3: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods se retiró antes del Flop (no apostó)
+Asiento 5: anny road (botón) se retiró antes del Flop (no apostó)
+Asiento 6: noarones (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 16 **************
+Mano n.º 258500504897 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:43:24 CET [13-11-2025 14:43:24 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 1 es el botón
+Asiento 1: Sr.littel (11.23 € en fichas)
+Asiento 2: noarones (14.33 € en fichas)
+Asiento 3: GabVal3127 (18.97 € en fichas)
+Asiento 4: danydu0057@ (4.70 € en fichas)
+Asiento 5: mivipkr (21.16 € en fichas)
+Asiento 6: Hard0Shade (7.74 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+GabVal3127: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Kh 9s]
+danydu0057@: se retira
+mivipkr: sube 0.10 € a 0.20 €
+Hard0Shade: iguala 0.20 €
+Sr.littel: iguala 0.20 €
+noarones: se retira
+GabVal3127: se retira
+*** FLOP *** [8d 3c 4s]
+mivipkr: pasa
+Hard0Shade: pasa
+Sr.littel: pasa
+*** TURN *** [8d 3c 4s] [9c]
+mivipkr: apuesta 0.53 €
+Hard0Shade: se retira
+Sr.littel: iguala 0.53 €
+*** RIVER *** [8d 3c 4s 9c] [Td]
+mivipkr: pasa
+Sr.littel: apuesta 1.36 €
+mivipkr: se retira
+La apuesta no igualada (1.36 €) ha sido devuelta a Sr.littel
+Sr.littel se lleva 1.70 € del bote
+Sr.littel: no muestra su mano
+*** RESUMEN ***
+Bote total 1.81 € | Comisión 0.11 €
+Comunitarias [8d 3c 4s 9c Td]
+Asiento 1: Sr.littel (botón) recaudó (1.70 €)
+Asiento 2: noarones (ciega pequeña) se retiró antes del Flop
+Asiento 3: GabVal3127 (ciega grande) se retiró antes del Flop
+Asiento 4: danydu0057@ se retiró antes del Flop (no apostó)
+Asiento 5: mivipkr se retiró en el River
+Asiento 6: Hard0Shade se retiró en el Turn
+
+
+*********** n. 17 **************
+Mano n.º 258500504481 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:43:23 CET [13-11-2025 14:43:23 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 1 es el botón
+Asiento 1: alhambra111 (10.60 € en fichas)
+Asiento 2: RemiC27 (9.18 € en fichas)
+Asiento 3: pintas76 (10.63 € en fichas)
+Asiento 4: marco_200150 (10.37 € en fichas)
+Asiento 5: Babu_Sloth (10.38 € en fichas)
+Asiento 6: noarones (17.20 € en fichas)
+RemiC27: pone la ciega pequeña 0.05 €
+pintas76: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Js 2c]
+marco_200150: se retira
+Babu_Sloth: sube 0.10 € a 0.20 €
+noarones: se retira
+alhambra111: se retira
+RemiC27: se retira
+pintas76: iguala 0.10 €
+*** FLOP *** [Jc Jd 2d]
+pintas76: pasa
+Babu_Sloth: apuesta 0.10 €
+pintas76: iguala 0.10 €
+*** TURN *** [Jc Jd 2d] [8h]
+pintas76: pasa
+Babu_Sloth: pasa
+*** RIVER *** [Jc Jd 2d 8h] [5h]
+pintas76: pasa
+Babu_Sloth: pasa
+*** SHOW DOWN ***
+pintas76: muestra [9d Kh] (pareja de jotas)
+Babu_Sloth: muestra [Kd Qs] (pareja de jotas - rey+dama kicker)
+Babu_Sloth se lleva 0.61 € del bote
+*** RESUMEN ***
+Bote total 0.65 € | Comisión 0.04 €
+Comunitarias [Jc Jd 2d 8h 5h]
+Asiento 1: alhambra111 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: RemiC27 (ciega pequeña) se retiró antes del Flop
+Asiento 3: pintas76 (ciega grande) muestra [9d Kh] y perdió con pareja de jotas
+Asiento 4: marco_200150 se retiró antes del Flop (no apostó)
+Asiento 5: Babu_Sloth muestra [Kd Qs] y ganó (0.61 €) con pareja de jotas
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 18 **************
+Mano n.º 258500502647 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:43:15 CET [13-11-2025 14:43:15 ET]
+Mesa "Themis III" 6-max El asiento n.º 4 es el botón
+Asiento 1: pinochopoker (12.31 € en fichas)
+Asiento 2: marry24 (10.85 € en fichas)
+Asiento 3: SUB13000 (11.44 € en fichas)
+Asiento 4: Heavengods (15.28 € en fichas)
+Asiento 5: anny road (10.80 € en fichas)
+Asiento 6: noarones (16.71 € en fichas)
+anny road: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [2c 5c]
+pinochopoker: sube 0.14 € a 0.24 €
+marry24: se retira
+SUB13000: iguala 0.24 €
+Heavengods: se retira
+anny road: se retira
+noarones: se retira
+*** FLOP *** [3s 5s 6s]
+pinochopoker: pasa
+SUB13000: pasa
+*** TURN *** [3s 5s 6s] [4c]
+pinochopoker: pasa
+SUB13000: pasa
+*** RIVER *** [3s 5s 6s 4c] [2s]
+pinochopoker: pasa
+SUB13000: pasa
+*** SHOW DOWN ***
+pinochopoker: muestra [Ts Jd] (color, carta alta diez)
+SUB13000: descarta su mano sin mostrar
+pinochopoker se lleva 0.59 € del bote
+*** RESUMEN ***
+Bote total 0.63 € | Comisión 0.04 €
+Comunitarias [3s 5s 6s 4c 2s]
+Asiento 1: pinochopoker muestra [Ts Jd] y ganó (0.59 €) con color, carta alta diez
+Asiento 2: marry24 se retiró antes del Flop (no apostó)
+Asiento 3: SUB13000 descartó sin mostrar [9c Jc]
+Asiento 4: Heavengods (botón) se retiró antes del Flop (no apostó)
+Asiento 5: anny road (ciega pequeña) se retiró antes del Flop
+Asiento 6: noarones (ciega grande) se retiró antes del Flop
+
+
+*********** n. 19 **************
+Mano n.º 258500502507 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:43:14 CET [13-11-2025 14:43:14 ET]
+Mesa "Sextans III" 6-max El asiento n.º 3 es el botón
+Asiento 1: noarones (18.42 € en fichas)
+Asiento 2: Vampire1566 (10.52 € en fichas)
+Asiento 3: AnxoGM (11.88 € en fichas)
+Asiento 5: NicoStar007 (10.57 € en fichas)
+Asiento 6: ramonyap (15.37 € en fichas)
+NicoStar007: pone la ciega pequeña 0.05 €
+ramonyap: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Ks Ac]
+noarones: sube 0.15 € a 0.25 €
+Vampire1566: se retira
+AnxoGM: se retira
+NicoStar007: se retira
+ramonyap: sube 0.85 € a 1.10 €
+noarones dijo, " 142BB?"
+noarones dijo, "mm"
+noarones: se retira [Ks Ac]
+La apuesta no igualada (0.85 €) ha sido devuelta a ramonyap
+ramonyap se lleva 0.55 € del bote
+ramonyap: no muestra su mano
+*** RESUMEN ***
+Bote total 0.55 € | Comisión 0 €
+Asiento 1: noarones se retiró antes del Flop
+Asiento 2: Vampire1566 se retiró antes del Flop (no apostó)
+Asiento 3: AnxoGM (botón) se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 (ciega pequeña) se retiró antes del Flop
+Asiento 6: ramonyap (ciega grande) recaudó (0.55 €)
+
+
+*********** n. 20 **************
+Mano n.º 258500498325 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:42:56 CET [13-11-2025 14:42:56 ET]
+Mesa "Themis III" 6-max El asiento n.º 3 es el botón
+Asiento 1: pinochopoker (12.31 € en fichas)
+Asiento 2: marry24 (10.85 € en fichas)
+Asiento 3: SUB13000 (11.44 € en fichas)
+Asiento 4: Heavengods (15.33 € en fichas)
+Asiento 5: anny road (10.75 € en fichas)
+Asiento 6: noarones (16.71 € en fichas)
+Heavengods: pone la ciega pequeña 0.05 €
+anny road: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [5s 4c]
+noarones: se retira
+pinochopoker: se retira
+marry24: se retira
+SUB13000: se retira
+Heavengods: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a anny road
+anny road se lleva 0.10 € del bote
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: pinochopoker se retiró antes del Flop (no apostó)
+Asiento 2: marry24 se retiró antes del Flop (no apostó)
+Asiento 3: SUB13000 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods (ciega pequeña) se retiró antes del Flop
+Asiento 5: anny road (ciega grande) recaudó (0.10 €)
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 21 **************
+Mano n.º 258500496915 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:42:50 CET [13-11-2025 14:42:50 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 6 es el botón
+Asiento 1: alhambra111 (10.65 € en fichas)
+Asiento 2: RemiC27 (10 € en fichas)
+Asiento 3: pintas76 (10.63 € en fichas)
+Asiento 4: marco_200150 (10.37 € en fichas)
+Asiento 5: Babu_Sloth (9.61 € en fichas)
+Asiento 6: noarones (17.20 € en fichas)
+alhambra111: pone la ciega pequeña 0.05 €
+RemiC27: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [9d 8c]
+pintas76: se retira
+marco_200150: se retira
+Babu_Sloth: sube 0.10 € a 0.20 €
+noarones: se retira
+alhambra111: se retira
+RemiC27: iguala 0.10 €
+*** FLOP *** [Kh 9h Ah]
+RemiC27: pasa
+Babu_Sloth: apuesta 0.21 €
+RemiC27: iguala 0.21 €
+*** TURN *** [Kh 9h Ah] [9c]
+RemiC27: pasa
+Babu_Sloth: apuesta 0.41 €
+RemiC27: iguala 0.41 €
+*** RIVER *** [Kh 9h Ah 9c] [3s]
+RemiC27: pasa
+Babu_Sloth: pasa
+*** SHOW DOWN ***
+RemiC27: muestra [Ks 2s] (doble pareja, reyes y nueves)
+Babu_Sloth: muestra [Th Ac] (doble pareja, ases y nueves)
+Babu_Sloth se lleva 1.59 € del bote
+*** RESUMEN ***
+Bote total 1.69 € | Comisión 0.10 €
+Comunitarias [Kh 9h Ah 9c 3s]
+Asiento 1: alhambra111 (ciega pequeña) se retiró antes del Flop
+Asiento 2: RemiC27 (ciega grande) muestra [Ks 2s] y perdió con doble pareja, reyes y nueves
+Asiento 3: pintas76 se retiró antes del Flop (no apostó)
+Asiento 4: marco_200150 se retiró antes del Flop (no apostó)
+Asiento 5: Babu_Sloth muestra [Th Ac] y ganó (1.59 €) con doble pareja, ases y nueves
+Asiento 6: noarones (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 22 **************
+Mano n.º 258500495148 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:42:43 CET [13-11-2025 14:42:43 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 6 es el botón
+Asiento 1: Sr.littel (11.33 € en fichas)
+Asiento 2: noarones (14.15 € en fichas)
+Asiento 3: GabVal3127 (18.97 € en fichas)
+Asiento 4: danydu0057@ (4.80 € en fichas)
+Asiento 5: mivipkr (21.16 € en fichas)
+Asiento 6: Hard0Shade (7.74 € en fichas)
+Sr.littel: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [4c As]
+GabVal3127: se retira
+danydu0057@: iguala 0.10 €
+mivipkr: se retira
+Hard0Shade: se retira
+Sr.littel: iguala 0.05 €
+noarones: pasa
+*** FLOP *** [7h 4d 7c]
+Sr.littel: pasa
+noarones: pasa
+danydu0057@: pasa
+*** TURN *** [7h 4d 7c] [5h]
+Sr.littel: pasa
+noarones: apuesta 0.10 €
+danydu0057@: se retira
+Sr.littel: se retira
+La apuesta no igualada (0.10 €) ha sido devuelta a noarones
+noarones se lleva 0.28 € del bote
+noarones: no muestra su mano
+*** RESUMEN ***
+Bote total 0.30 € | Comisión 0.02 €
+Comunitarias [7h 4d 7c 5h]
+Asiento 1: Sr.littel (ciega pequeña) se retiró en el Turn
+Asiento 2: noarones (ciega grande) recaudó (0.28 €)
+Asiento 3: GabVal3127 se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ se retiró en el Turn
+Asiento 5: mivipkr se retiró antes del Flop (no apostó)
+Asiento 6: Hard0Shade (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 23 **************
+Mano n.º 258500494517 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:42:40 CET [13-11-2025 14:42:40 ET]
+Mesa "Sextans III" 6-max El asiento n.º 2 es el botón
+Asiento 1: noarones (18.42 € en fichas)
+Asiento 2: Vampire1566 (10.52 € en fichas)
+Asiento 3: AnxoGM (12.36 € en fichas)
+Asiento 5: NicoStar007 (10.15 € en fichas)
+Asiento 6: ramonyap (15.37 € en fichas)
+AnxoGM: pone la ciega pequeña 0.05 €
+NicoStar007: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Ac 5d]
+ramonyap: se retira
+noarones: se retira
+Vampire1566: se retira
+AnxoGM: sube 0.20 € a 0.30 €
+NicoStar007: iguala 0.20 €
+*** FLOP *** [4h 8d Kh]
+AnxoGM: apuesta 0.18 €
+NicoStar007: sube 0.42 € a 0.60 €
+AnxoGM: se retira
+La apuesta no igualada (0.42 €) ha sido devuelta a NicoStar007
+NicoStar007 se lleva 0.90 € del bote
+NicoStar007: no muestra su mano
+*** RESUMEN ***
+Bote total 0.96 € | Comisión 0.06 €
+Comunitarias [4h 8d Kh]
+Asiento 1: noarones se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 (botón) se retiró antes del Flop (no apostó)
+Asiento 3: AnxoGM (ciega pequeña) se retiró en el Flop
+Asiento 5: NicoStar007 (ciega grande) recaudó (0.90 €)
+Asiento 6: ramonyap se retiró antes del Flop (no apostó)
+
+
+*********** n. 24 **************
+Mano n.º 258500493165 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:42:34 CET [13-11-2025 14:42:34 ET]
+Mesa "Themis III" 6-max El asiento n.º 2 es el botón
+Asiento 1: pinochopoker (12.31 € en fichas)
+Asiento 2: marry24 (10.85 € en fichas)
+Asiento 3: SUB13000 (11.49 € en fichas)
+Asiento 4: Heavengods (15.43 € en fichas)
+Asiento 5: anny road (10.75 € en fichas)
+Asiento 6: noarones (16.56 € en fichas)
+SUB13000: pone la ciega pequeña 0.05 €
+Heavengods: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Kh 8h]
+anny road: se retira
+noarones: sube 0.15 € a 0.25 €
+pinochopoker: se retira
+marry24: se retira
+SUB13000: se retira
+Heavengods: se retira
+La apuesta no igualada (0.15 €) ha sido devuelta a noarones
+noarones se lleva 0.25 € del bote
+noarones: no muestra su mano
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0 €
+Asiento 1: pinochopoker se retiró antes del Flop (no apostó)
+Asiento 2: marry24 (botón) se retiró antes del Flop (no apostó)
+Asiento 3: SUB13000 (ciega pequeña) se retiró antes del Flop
+Asiento 4: Heavengods (ciega grande) se retiró antes del Flop
+Asiento 5: anny road se retiró antes del Flop (no apostó)
+Asiento 6: noarones recaudó (0.25 €)
+
+
+*********** n. 25 **************
+Mano n.º 258500489850 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:42:20 CET [13-11-2025 14:42:20 ET]
+Mesa "Sextans III" 6-max El asiento n.º 1 es el botón
+Asiento 1: noarones (18.42 € en fichas)
+Asiento 2: Vampire1566 (10.57 € en fichas)
+Asiento 3: AnxoGM (12.31 € en fichas)
+Asiento 5: NicoStar007 (10.15 € en fichas)
+Asiento 6: ramonyap (15.37 € en fichas)
+Vampire1566: pone la ciega pequeña 0.05 €
+AnxoGM: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [5c 2c]
+NicoStar007: se retira
+ramonyap: se retira
+noarones: se retira
+Vampire1566: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a AnxoGM
+AnxoGM se lleva 0.10 € del bote
+AnxoGM: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: noarones (botón) se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 (ciega pequeña) se retiró antes del Flop
+Asiento 3: AnxoGM (ciega grande) recaudó (0.10 €)
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap se retiró antes del Flop (no apostó)
+
+
+*********** n. 26 **************
+Mano n.º 258500487875 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:42:12 CET [13-11-2025 14:42:12 ET]
+Mesa "Themis III" 6-max El asiento n.º 1 es el botón
+Asiento 1: pinochopoker (12.55 € en fichas)
+Asiento 2: marry24 (10.51 € en fichas)
+Asiento 3: SUB13000 (11.59 € en fichas)
+Asiento 4: Heavengods (15.43 € en fichas)
+Asiento 5: anny road (10.75 € en fichas)
+Asiento 6: noarones (16.56 € en fichas)
+marry24: pone la ciega pequeña 0.05 €
+SUB13000: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [2c 2h]
+Heavengods: se retira
+anny road: se retira
+noarones: se retira
+pinochopoker: sube 0.14 € a 0.24 €
+marry24: sube 0.86 € a 1.10 €
+SUB13000: se retira
+pinochopoker: se retira
+La apuesta no igualada (0.86 €) ha sido devuelta a marry24
+marry24 se lleva 0.58 € del bote
+marry24: no muestra su mano
+*** RESUMEN ***
+Bote total 0.58 € | Comisión 0 €
+Asiento 1: pinochopoker (botón) se retiró antes del Flop
+Asiento 2: marry24 (ciega pequeña) recaudó (0.58 €)
+Asiento 3: SUB13000 (ciega grande) se retiró antes del Flop
+Asiento 4: Heavengods se retiró antes del Flop (no apostó)
+Asiento 5: anny road se retiró antes del Flop (no apostó)
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 27 **************
+Mano n.º 258500486262 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:42:05 CET [13-11-2025 14:42:05 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 5 es el botón
+Asiento 1: Sr.littel (11.20 € en fichas)
+Asiento 2: noarones (14.15 € en fichas)
+Asiento 3: GabVal3127 (18.97 € en fichas)
+Asiento 4: danydu0057@ (4.90 € en fichas)
+Asiento 5: mivipkr (21.16 € en fichas)
+Asiento 6: Hard0Shade (7.79 € en fichas)
+Hard0Shade: pone la ciega pequeña 0.05 €
+Sr.littel: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [3h 5h]
+noarones: se retira
+GabVal3127: se retira
+danydu0057@: iguala 0.10 €
+mivipkr: se retira
+Hard0Shade: se retira
+Sr.littel: pasa
+*** FLOP *** [Ks 2s As]
+Sr.littel: pasa
+danydu0057@: pasa
+*** TURN *** [Ks 2s As] [Kd]
+Sr.littel: pasa
+danydu0057@: pasa
+*** RIVER *** [Ks 2s As Kd] [Qs]
+Sr.littel: apuesta 0.20 €
+danydu0057@: se retira
+La apuesta no igualada (0.20 €) ha sido devuelta a Sr.littel
+Sr.littel se lleva 0.23 € del bote
+Sr.littel: no muestra su mano
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0.02 €
+Comunitarias [Ks 2s As Kd Qs]
+Asiento 1: Sr.littel (ciega grande) recaudó (0.23 €)
+Asiento 2: noarones se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ se retiró en el River
+Asiento 5: mivipkr (botón) se retiró antes del Flop (no apostó)
+Asiento 6: Hard0Shade (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 28 **************
+Mano n.º 258500484860 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:41:59 CET [13-11-2025 14:41:59 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 5 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 2: RemiC27 (10 € en fichas)
+Asiento 3: pintas76 (11.31 € en fichas)
+Asiento 4: marco_200150 (10.37 € en fichas)
+Asiento 5: Babu_Sloth (9.61 € en fichas)
+Asiento 6: noarones (17.25 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+alhambra111: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [6c 8h]
+RemiC27: se retira
+pintas76: sube 0.18 € a 0.28 €
+marco_200150: se retira
+Babu_Sloth: se retira
+noarones: se retira
+alhambra111: iguala 0.18 €
+*** FLOP *** [8c 3h 5s]
+alhambra111: pasa
+pintas76: apuesta 0.40 €
+alhambra111: sube 1.03 € a 1.43 €
+pintas76: se retira
+La apuesta no igualada (1.03 €) ha sido devuelta a alhambra111
+alhambra111 se lleva 1.33 € del bote
+alhambra111: no muestra su mano
+*** RESUMEN ***
+Bote total 1.41 € | Comisión 0.08 €
+Comunitarias [8c 3h 5s]
+Asiento 1: alhambra111 (ciega grande) recaudó (1.33 €)
+Asiento 2: RemiC27 se retiró antes del Flop (no apostó)
+Asiento 3: pintas76 se retiró en el Flop
+Asiento 4: marco_200150 se retiró antes del Flop (no apostó)
+Asiento 5: Babu_Sloth (botón) se retiró antes del Flop (no apostó)
+Asiento 6: noarones (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 29 **************
+Mano n.º 258500482600 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:41:50 CET [13-11-2025 14:41:50 ET]
+Mesa "Sextans III" 6-max El asiento n.º 6 es el botón
+Asiento 1: noarones (18.47 € en fichas)
+Asiento 2: Vampire1566 (10 € en fichas)
+Asiento 3: AnxoGM (12.90 € en fichas)
+Asiento 5: NicoStar007 (10.15 € en fichas)
+Asiento 6: ramonyap (15.37 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+Vampire1566: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [2c 8s]
+AnxoGM: sube 0.15 € a 0.25 €
+NicoStar007: se retira
+ramonyap: se retira
+noarones: se retira
+Vampire1566: iguala 0.15 €
+*** FLOP *** [2h Jd Qs]
+Vampire1566: pasa
+AnxoGM: apuesta 0.34 €
+Vampire1566: iguala 0.34 €
+*** TURN *** [2h Jd Qs] [Ad]
+Vampire1566: pasa
+AnxoGM: pasa
+*** RIVER *** [2h Jd Qs Ad] [6d]
+Vampire1566: apuesta 0.50 €
+AnxoGM: se retira
+La apuesta no igualada (0.50 €) ha sido devuelta a Vampire1566
+Vampire1566 se lleva 1.16 € del bote
+Vampire1566: no muestra su mano
+*** RESUMEN ***
+Bote total 1.23 € | Comisión 0.07 €
+Comunitarias [2h Jd Qs Ad 6d]
+Asiento 1: noarones (ciega pequeña) se retiró antes del Flop
+Asiento 2: Vampire1566 (ciega grande) recaudó (1.16 €)
+Asiento 3: AnxoGM se retiró en el River
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 30 **************
+Mano n.º 258500477225 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:41:27 CET [13-11-2025 14:41:27 ET]
+Mesa "Sextans III" 6-max El asiento n.º 5 es el botón
+Asiento 1: noarones (18.42 € en fichas)
+Asiento 2: Vampire1566 (10 € en fichas)
+Asiento 3: AnxoGM (12.90 € en fichas)
+Asiento 4: SUB13000 (12.86 € en fichas)
+Asiento 5: NicoStar007 (10.15 € en fichas)
+Asiento 6: ramonyap (15.42 € en fichas)
+ramonyap: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Jh 9d]
+Vampire1566: se retira
+AnxoGM: se retira
+SUB13000 ha agotado su tiempo
+SUB13000: se retira
+NicoStar007: se retira
+ramonyap: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a noarones
+noarones se lleva 0.10 € del bote
+noarones: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: noarones (ciega grande) recaudó (0.10 €)
+Asiento 2: Vampire1566 se retiró antes del Flop (no apostó)
+Asiento 3: AnxoGM se retiró antes del Flop (no apostó)
+Asiento 4: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 (botón) se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 31 **************
+Mano n.º 258500476610 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:41:24 CET [13-11-2025 14:41:24 ET]
+Mesa "Themis III" 6-max El asiento n.º 6 es el botón
+Asiento 1: pinochopoker (12.60 € en fichas)
+Asiento 2: marry24 (10.76 € en fichas)
+Asiento 3: SUB13000 (11.59 € en fichas)
+Asiento 4: Heavengods (15.43 € en fichas)
+Asiento 5: anny road (10.75 € en fichas)
+Asiento 6: noarones (16.29 € en fichas)
+pinochopoker: pone la ciega pequeña 0.05 €
+marry24: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [As 4s]
+SUB13000: se retira
+Heavengods: se retira
+anny road: se retira
+noarones: sube 0.15 € a 0.25 €
+pinochopoker: se retira
+marry24: iguala 0.15 €
+*** FLOP *** [Qs 2s 3s]
+marry24: pasa
+noarones: apuesta 0.15 €
+marry24: se retira
+La apuesta no igualada (0.15 €) ha sido devuelta a noarones
+noarones se lleva 0.52 € del bote
+noarones: no muestra su mano
+*** RESUMEN ***
+Bote total 0.55 € | Comisión 0.03 €
+Comunitarias [Qs 2s 3s]
+Asiento 1: pinochopoker (ciega pequeña) se retiró antes del Flop
+Asiento 2: marry24 (ciega grande) se retiró en el Flop
+Asiento 3: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods se retiró antes del Flop (no apostó)
+Asiento 5: anny road se retiró antes del Flop (no apostó)
+Asiento 6: noarones (botón) recaudó (0.52 €)
+
+
+*********** n. 32 **************
+Mano n.º 258500476246 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:41:23 CET [13-11-2025 14:41:23 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 4 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 2: RemiC27 (10 € en fichas)
+Asiento 3: pintas76 (11.31 € en fichas)
+Asiento 4: marco_200150 (10.37 € en fichas)
+Asiento 5: Babu_Sloth (9.52 € en fichas)
+Asiento 6: noarones (17.35 € en fichas)
+Babu_Sloth: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Jh 3d]
+alhambra111: se retira
+RemiC27: se retira
+pintas76: se retira
+marco_200150: se retira
+Babu_Sloth: iguala 0.05 €
+noarones: pasa
+*** FLOP *** [4s 2d 7c]
+Babu_Sloth: pasa
+noarones: pasa
+*** TURN *** [4s 2d 7c] [7d]
+Babu_Sloth: pasa
+noarones: pasa
+*** RIVER *** [4s 2d 7c 7d] [5s]
+Babu_Sloth: pasa
+noarones: pasa
+*** SHOW DOWN ***
+Babu_Sloth: muestra [Tc 5c] (doble pareja, sietes y cincos)
+noarones: descarta su mano sin mostrar
+Babu_Sloth se lleva 0.19 € del bote
+*** RESUMEN ***
+Bote total 0.20 € | Comisión 0.01 €
+Comunitarias [4s 2d 7c 7d 5s]
+Asiento 1: alhambra111 se retiró antes del Flop (no apostó)
+Asiento 2: RemiC27 se retiró antes del Flop (no apostó)
+Asiento 3: pintas76 se retiró antes del Flop (no apostó)
+Asiento 4: marco_200150 (botón) se retiró antes del Flop (no apostó)
+Asiento 5: Babu_Sloth (ciega pequeña) muestra [Tc 5c] y ganó (0.19 €) con doble pareja, sietes y cincos
+Asiento 6: noarones (ciega grande) descartó sin mostrar [Jh 3d]
+
+
+*********** n. 33 **************
+Mano n.º 258500473148 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:41:10 CET [13-11-2025 14:41:10 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 4 es el botón
+Asiento 1: Sr.littel (10 € en fichas)
+Asiento 2: noarones (14.15 € en fichas)
+Asiento 3: GabVal3127 (18.97 € en fichas)
+Asiento 4: danydu0057@ (5.15 € en fichas)
+Asiento 5: mivipkr (21.21 € en fichas)
+Asiento 6: Hard0Shade (8.69 € en fichas)
+mivipkr: pone la ciega pequeña 0.05 €
+Hard0Shade: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [9h Ah]
+Sr.littel: sube 0.15 € a 0.25 €
+noarones: se retira
+GabVal3127: se retira
+danydu0057@: iguala 0.25 €
+mivipkr: se retira
+Hard0Shade: sube 0.65 € a 0.90 €
+Sr.littel: sube 2 € a 2.90 €
+danydu0057@: se retira
+Hard0Shade: se retira
+La apuesta no igualada (2 €) ha sido devuelta a Sr.littel
+Sr.littel se lleva 2.10 € del bote
+Sr.littel: no muestra su mano
+*** RESUMEN ***
+Bote total 2.10 € | Comisión 0 €
+Asiento 1: Sr.littel recaudó (2.10 €)
+Asiento 2: noarones se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ (botón) se retiró antes del Flop
+Asiento 5: mivipkr (ciega pequeña) se retiró antes del Flop
+Asiento 6: Hard0Shade (ciega grande) se retiró antes del Flop
+
+
+*********** n. 34 **************
+Mano n.º 258500470942 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:41:01 CET [13-11-2025 14:41:01 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 3 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 3: pintas76 (11.31 € en fichas)
+Asiento 4: marco_200150 (10.15 € en fichas)
+Asiento 5: Babu_Sloth (9.77 € en fichas)
+Asiento 6: noarones (17.35 € en fichas)
+marco_200150: pone la ciega pequeña 0.05 €
+Babu_Sloth: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [5c 4d]
+noarones: se retira
+alhambra111: se retira
+pintas76: se retira
+marco_200150: sube 0.15 € a 0.25 €
+Babu_Sloth: iguala 0.15 €
+*** FLOP *** [As 3c 5h]
+marco_200150: apuesta 0.15 €
+Babu_Sloth: se retira
+La apuesta no igualada (0.15 €) ha sido devuelta a marco_200150
+marco_200150 se lleva 0.47 € del bote
+*** RESUMEN ***
+Bote total 0.50 € | Comisión 0.03 €
+Comunitarias [As 3c 5h]
+Asiento 1: alhambra111 se retiró antes del Flop (no apostó)
+Asiento 3: pintas76 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: marco_200150 (ciega pequeña) recaudó (0.47 €)
+Asiento 5: Babu_Sloth (ciega grande) se retiró en el Flop
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 35 **************
+Mano n.º 258500469002 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:40:52 CET [13-11-2025 14:40:52 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 3 es el botón
+Asiento 1: Sr.littel (9.80 € en fichas)
+Asiento 2: noarones (14.15 € en fichas)
+Asiento 3: GabVal3127 (18.97 € en fichas)
+Asiento 4: danydu0057@ (5.20 € en fichas)
+Asiento 5: mivipkr (21.16 € en fichas)
+Asiento 6: Hard0Shade (8.69 € en fichas)
+danydu0057@: pone la ciega pequeña 0.05 €
+mivipkr: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [8s 3c]
+Hard0Shade: se retira
+Sr.littel: se retira
+noarones: se retira
+GabVal3127: se retira
+danydu0057@: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a mivipkr
+mivipkr se lleva 0.10 € del bote
+mivipkr: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: Sr.littel se retiró antes del Flop (no apostó)
+Asiento 2: noarones se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ (ciega pequeña) se retiró antes del Flop
+Asiento 5: mivipkr (ciega grande) recaudó (0.10 €)
+Asiento 6: Hard0Shade se retiró antes del Flop (no apostó)
+
+
+*********** n. 36 **************
+Mano n.º 258500467642 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:40:47 CET [13-11-2025 14:40:47 ET]
+Mesa "Sextans III" 6-max El asiento n.º 4 es el botón
+Asiento 1: noarones (18.15 € en fichas)
+Asiento 2: Vampire1566 (10 € en fichas)
+Asiento 3: AnxoGM (12.90 € en fichas)
+Asiento 4: SUB13000 (12.86 € en fichas)
+Asiento 5: NicoStar007 (10.20 € en fichas)
+Asiento 6: ramonyap (15.67 € en fichas)
+NicoStar007: pone la ciega pequeña 0.05 €
+ramonyap: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Qc Qd]
+noarones: sube 0.15 € a 0.25 €
+Vampire1566: se retira
+AnxoGM: se retira
+SUB13000: se retira
+NicoStar007: se retira
+ramonyap: iguala 0.15 €
+*** FLOP *** [Jc 3h 6d]
+ramonyap: pasa
+noarones: apuesta 0.15 €
+ramonyap: se retira
+La apuesta no igualada (0.15 €) ha sido devuelta a noarones
+noarones se lleva 0.52 € del bote
+noarones: no muestra su mano
+*** RESUMEN ***
+Bote total 0.55 € | Comisión 0.03 €
+Comunitarias [Jc 3h 6d]
+Asiento 1: noarones recaudó (0.52 €)
+Asiento 2: Vampire1566 se retiró antes del Flop (no apostó)
+Asiento 3: AnxoGM se retiró antes del Flop (no apostó)
+Asiento 4: SUB13000 (botón) se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 (ciega pequeña) se retiró antes del Flop
+Asiento 6: ramonyap (ciega grande) se retiró en el Flop
+
+
+*********** n. 37 **************
+Mano n.º 258500465304 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:40:37 CET [13-11-2025 14:40:37 ET]
+Mesa "Themis III" 6-max El asiento n.º 5 es el botón
+Asiento 1: pinochopoker (12.70 € en fichas)
+Asiento 2: marry24 (10.76 € en fichas)
+Asiento 3: SUB13000 (11.59 € en fichas)
+Asiento 4: Heavengods (15.28 € en fichas)
+Asiento 5: anny road (10.75 € en fichas)
+Asiento 6: noarones (16.34 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+pinochopoker: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Jh 8c]
+marry24: se retira
+SUB13000: se retira
+Heavengods: sube 0.12 € a 0.22 €
+anny road: se retira
+noarones: se retira
+pinochopoker: se retira
+La apuesta no igualada (0.12 €) ha sido devuelta a Heavengods
+Heavengods se lleva 0.25 € del bote
+Heavengods: no muestra su mano
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0 €
+Asiento 1: pinochopoker (ciega grande) se retiró antes del Flop
+Asiento 2: marry24 se retiró antes del Flop (no apostó)
+Asiento 3: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods recaudó (0.25 €)
+Asiento 5: anny road (botón) se retiró antes del Flop (no apostó)
+Asiento 6: noarones (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 38 **************
+Mano n.º 258500463765 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:40:31 CET [13-11-2025 14:40:31 ET]
+Mesa "Sextans III" 6-max El asiento n.º 3 es el botón
+Asiento 1: noarones (18.15 € en fichas)
+Asiento 3: AnxoGM (12.90 € en fichas)
+Asiento 4: SUB13000 (12.91 € en fichas)
+Asiento 5: NicoStar007 (10.15 € en fichas)
+Asiento 6: ramonyap (15.67 € en fichas)
+SUB13000: pone la ciega pequeña 0.05 €
+NicoStar007: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [3c Td]
+ramonyap: se retira
+noarones: se retira
+AnxoGM: se retira
+SUB13000: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a NicoStar007
+NicoStar007 se lleva 0.10 € del bote
+NicoStar007: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: noarones se retiró antes del Flop (no apostó)
+Asiento 3: AnxoGM (botón) se retiró antes del Flop (no apostó)
+Asiento 4: SUB13000 (ciega pequeña) se retiró antes del Flop
+Asiento 5: NicoStar007 (ciega grande) recaudó (0.10 €)
+Asiento 6: ramonyap se retiró antes del Flop (no apostó)
+
+
+*********** n. 39 **************
+Mano n.º 258500462347 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:40:25 CET [13-11-2025 14:40:25 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 2 es el botón
+Asiento 1: Sr.littel (9.80 € en fichas)
+Asiento 2: noarones (14.15 € en fichas)
+Asiento 3: GabVal3127 (19.02 € en fichas)
+Asiento 4: danydu0057@ (5.15 € en fichas)
+Asiento 5: mivipkr (21.16 € en fichas)
+Asiento 6: Hard0Shade (8.69 € en fichas)
+GabVal3127: pone la ciega pequeña 0.05 €
+danydu0057@: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [6s 3h]
+mivipkr: se retira
+Hard0Shade: se retira
+Sr.littel: se retira
+noarones: se retira
+GabVal3127: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a danydu0057@
+danydu0057@ se lleva 0.10 € del bote
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: Sr.littel se retiró antes del Flop (no apostó)
+Asiento 2: noarones (botón) se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 (ciega pequeña) se retiró antes del Flop
+Asiento 4: danydu0057@ (ciega grande) recaudó (0.10 €)
+Asiento 5: mivipkr se retiró antes del Flop (no apostó)
+Asiento 6: Hard0Shade se retiró antes del Flop (no apostó)
+
+
+*********** n. 40 **************
+Mano n.º 258500460107 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:40:15 CET [13-11-2025 14:40:15 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 2 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 2: RemiC27 (4.99 € en fichas)
+Asiento 3: pintas76 (11.36 € en fichas)
+Asiento 4: marco_200150 (10.25 € en fichas)
+Asiento 5: Babu_Sloth (10.17 € en fichas)
+Asiento 6: noarones (12.44 € en fichas)
+pintas76: pone la ciega pequeña 0.05 €
+marco_200150: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Th Ad]
+Babu_Sloth: iguala 0.10 €
+noarones: sube 0.30 € a 0.40 €
+alhambra111: se retira
+RemiC27: iguala 0.40 €
+pintas76: se retira
+marco_200150: se retira
+Babu_Sloth: iguala 0.30 €
+*** FLOP *** [Tc 8h 7h]
+Babu_Sloth: pasa
+noarones: apuesta 0.35 €
+RemiC27: sube 4.24 € a 4.59 € y está all-in
+Babu_Sloth: se retira
+noarones: iguala 4.24 €
+*** TURN *** [Tc 8h 7h] [6c]
+*** RIVER *** [Tc 8h 7h 6c] [8c]
+*** SHOW DOWN ***
+noarones: muestra [Th Ad] (doble pareja, dieces y ochos)
+RemiC27: muestra [Kh Td] (doble pareja, dieces y ochos - menor kicker)
+noarones se lleva 9.90 € del bote
+*** RESUMEN ***
+Bote total 10.53 € | Comisión 0.63 €
+Comunitarias [Tc 8h 7h 6c 8c]
+Asiento 1: alhambra111 se retiró antes del Flop (no apostó)
+Asiento 2: RemiC27 (botón) muestra [Kh Td] y perdió con doble pareja, dieces y ochos
+Asiento 3: pintas76 (ciega pequeña) se retiró antes del Flop
+Asiento 4: marco_200150 (ciega grande) se retiró antes del Flop
+Asiento 5: Babu_Sloth se retiró en el Flop
+Asiento 6: noarones muestra [Th Ad] y ganó (9.90 €) con doble pareja, dieces y ochos
+
+
+*********** n. 41 **************
+Mano n.º 258500459853 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:40:14 CET [13-11-2025 14:40:14 ET]
+Mesa "Themis III" 6-max El asiento n.º 4 es el botón
+Asiento 1: pinochopoker (12.70 € en fichas)
+Asiento 2: marry24 (10.76 € en fichas)
+Asiento 3: SUB13000 (11.59 € en fichas)
+Asiento 4: Heavengods (15.28 € en fichas)
+Asiento 5: anny road (10.80 € en fichas)
+Asiento 6: noarones (16.29 € en fichas)
+anny road: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Qc 2d]
+pinochopoker: se retira
+marry24: se retira
+SUB13000: se retira
+Heavengods: se retira
+anny road: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a noarones
+noarones se lleva 0.10 € del bote
+noarones: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: pinochopoker se retiró antes del Flop (no apostó)
+Asiento 2: marry24 se retiró antes del Flop (no apostó)
+Asiento 3: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods (botón) se retiró antes del Flop (no apostó)
+Asiento 5: anny road (ciega pequeña) se retiró antes del Flop
+Asiento 6: noarones (ciega grande) recaudó (0.10 €)
+
+
+*********** n. 42 **************
+Mano n.º 258500458723 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:40:09 CET [13-11-2025 14:40:09 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 1 es el botón
+Asiento 1: Sr.littel (9.80 € en fichas)
+Asiento 2: noarones (14.20 € en fichas)
+Asiento 3: GabVal3127 (19.12 € en fichas)
+Asiento 4: danydu0057@ (5.15 € en fichas)
+Asiento 5: mivipkr (21.01 € en fichas)
+Asiento 6: Hard0Shade (8.69 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+GabVal3127: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Th 4s]
+danydu0057@: se retira
+mivipkr: sube 0.10 € a 0.20 €
+Hard0Shade: se retira
+Sr.littel: se retira
+noarones: se retira
+GabVal3127: se retira
+La apuesta no igualada (0.10 €) ha sido devuelta a mivipkr
+mivipkr se lleva 0.25 € del bote
+mivipkr: no muestra su mano
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0 €
+Asiento 1: Sr.littel (botón) se retiró antes del Flop (no apostó)
+Asiento 2: noarones (ciega pequeña) se retiró antes del Flop
+Asiento 3: GabVal3127 (ciega grande) se retiró antes del Flop
+Asiento 4: danydu0057@ se retiró antes del Flop (no apostó)
+Asiento 5: mivipkr recaudó (0.25 €)
+Asiento 6: Hard0Shade se retiró antes del Flop (no apostó)
+
+
+*********** n. 43 **************
+Mano n.º 258500456966 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:40:02 CET [13-11-2025 14:40:02 ET]
+Mesa "Sextans III" 6-max El asiento n.º 2 es el botón
+Asiento 1: noarones (18.15 € en fichas)
+Asiento 2: Vampire1566 (2.94 € en fichas)
+Asiento 3: AnxoGM (10.22 € en fichas)
+Asiento 4: SUB13000 (13.01 € en fichas)
+Asiento 5: NicoStar007 (10.15 € en fichas)
+Asiento 6: ramonyap (15.67 € en fichas)
+AnxoGM: pone la ciega pequeña 0.05 €
+SUB13000: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Ad 6s]
+NicoStar007: se retira
+ramonyap: se retira
+noarones: se retira
+Vampire1566: sube 0.10 € a 0.20 €
+AnxoGM: sube 1 € a 1.20 €
+SUB13000: se retira
+Vampire1566: sube 1.74 € a 2.94 € y está all-in
+AnxoGM: iguala 1.74 €
+*** FLOP *** [9c 9h 3h]
+*** TURN *** [9c 9h 3h] [Jd]
+*** RIVER *** [9c 9h 3h Jd] [9d]
+*** SHOW DOWN ***
+AnxoGM: muestra [Qc Qd] (full de nueves y damas)
+Vampire1566: muestra [Kd 7d] (trío de nueves)
+AnxoGM se lleva 5.62 € del bote
+*** RESUMEN ***
+Bote total 5.98 € | Comisión 0.36 €
+Comunitarias [9c 9h 3h Jd 9d]
+Asiento 1: noarones se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 (botón) muestra [Kd 7d] y perdió con trío de nueves
+Asiento 3: AnxoGM (ciega pequeña) muestra [Qc Qd] y ganó (5.62 €) con full de nueves y damas
+Asiento 4: SUB13000 (ciega grande) se retiró antes del Flop
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap se retiró antes del Flop (no apostó)
+
+
+*********** n. 44 **************
+Mano n.º 258500453204 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:39:46 CET [13-11-2025 14:39:46 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 6 es el botón
+Asiento 1: Sr.littel (9.85 € en fichas)
+Asiento 2: noarones (14.15 € en fichas)
+Asiento 3: GabVal3127 (19.12 € en fichas)
+Asiento 4: danydu0057@ (5.15 € en fichas)
+Asiento 5: mivipkr (21.01 € en fichas)
+Asiento 6: Hard0Shade (8.69 € en fichas)
+Sr.littel: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [9h 6d]
+GabVal3127: se retira
+danydu0057@: se retira
+mivipkr: se retira
+Hard0Shade: se retira
+Sr.littel: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a noarones
+noarones se lleva 0.10 € del bote
+noarones: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: Sr.littel (ciega pequeña) se retiró antes del Flop
+Asiento 2: noarones (ciega grande) recaudó (0.10 €)
+Asiento 3: GabVal3127 se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ se retiró antes del Flop (no apostó)
+Asiento 5: mivipkr se retiró antes del Flop (no apostó)
+Asiento 6: Hard0Shade (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 45 **************
+Mano n.º 258500451933 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:39:40 CET [13-11-2025 14:39:40 ET]
+Mesa "Themis III" 6-max El asiento n.º 3 es el botón
+Asiento 1: pinochopoker (13.47 € en fichas)
+Asiento 2: marry24 (10.76 € en fichas)
+Asiento 3: SUB13000 (11.59 € en fichas)
+Asiento 4: Heavengods (15.33 € en fichas)
+Asiento 5: anny road (10.08 € en fichas)
+Asiento 6: noarones (16.29 € en fichas)
+Heavengods: pone la ciega pequeña 0.05 €
+anny road: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Qh 8h]
+noarones: se retira
+pinochopoker: sube 0.14 € a 0.24 €
+marry24: se retira
+SUB13000: se retira
+Heavengods: se retira
+anny road: sube 0.53 € a 0.77 €
+pinochopoker: iguala 0.53 €
+*** FLOP *** [Qd 8s Qc]
+anny road: apuesta 0.75 €
+pinochopoker: se retira
+La apuesta no igualada (0.75 €) ha sido devuelta a anny road
+anny road se lleva 1.49 € del bote
+*** RESUMEN ***
+Bote total 1.59 € | Comisión 0.10 €
+Comunitarias [Qd 8s Qc]
+Asiento 1: pinochopoker se retiró en el Flop
+Asiento 2: marry24 se retiró antes del Flop (no apostó)
+Asiento 3: SUB13000 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods (ciega pequeña) se retiró antes del Flop
+Asiento 5: anny road (ciega grande) recaudó (1.49 €)
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 46 **************
+Mano n.º 258500447740 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:39:23 CET [13-11-2025 14:39:23 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 1 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 2: RemiC27 (5.09 € en fichas)
+Asiento 3: pintas76 (11.56 € en fichas)
+Asiento 4: marco_200150 (10.25 € en fichas)
+Asiento 5: Babu_Sloth (9.90 € en fichas)
+Asiento 6: noarones (12.44 € en fichas)
+RemiC27: pone la ciega pequeña 0.05 €
+pintas76: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [3c 4d]
+marco_200150: se retira
+Babu_Sloth: iguala 0.10 €
+noarones: se retira
+alhambra111: se retira
+RemiC27: iguala 0.05 €
+pintas76: pasa
+*** FLOP *** [6c Th 4s]
+RemiC27: pasa
+pintas76: pasa
+Babu_Sloth: apuesta 0.10 €
+RemiC27: se retira
+pintas76: iguala 0.10 €
+*** TURN *** [6c Th 4s] [Jh]
+pintas76: pasa
+Babu_Sloth: pasa
+*** RIVER *** [6c Th 4s Jh] [5d]
+pintas76: pasa
+Babu_Sloth: pasa
+*** SHOW DOWN ***
+pintas76: muestra [4h 9d] (pareja de cuatros)
+Babu_Sloth: muestra [Qd 6h] (pareja de seises)
+Babu_Sloth se lleva 0.47 € del bote
+*** RESUMEN ***
+Bote total 0.50 € | Comisión 0.03 €
+Comunitarias [6c Th 4s Jh 5d]
+Asiento 1: alhambra111 (botón) se retiró antes del Flop (no apostó)
+Asiento 2: RemiC27 (ciega pequeña) se retiró en el Flop
+Asiento 3: pintas76 (ciega grande) muestra [4h 9d] y perdió con pareja de cuatros
+Asiento 4: marco_200150 se retiró antes del Flop (no apostó)
+Asiento 5: Babu_Sloth muestra [Qd 6h] y ganó (0.47 €) con pareja de seises
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 47 **************
+Mano n.º 258500446109 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:39:15 CET [13-11-2025 14:39:15 ET]
+Mesa "Sextans III" 6-max El asiento n.º 1 es el botón
+Asiento 1: noarones (18.15 € en fichas)
+Asiento 2: Vampire1566 (3.13 € en fichas)
+Asiento 3: AnxoGM (10.41 € en fichas)
+Asiento 4: SUB13000 (13.01 € en fichas)
+Asiento 5: NicoStar007 (10.15 € en fichas)
+Asiento 6: ramonyap (15.67 € en fichas)
+Vampire1566: pone la ciega pequeña 0.05 €
+AnxoGM: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Kd 5h]
+SUB13000: se retira
+NicoStar007: se retira
+ramonyap: se retira
+noarones: se retira
+Vampire1566: sube 0.20 € a 0.30 €
+AnxoGM: iguala 0.20 €
+*** FLOP *** [Kc Tc Jh]
+Vampire1566: apuesta 0.40 €
+AnxoGM: iguala 0.40 €
+*** TURN *** [Kc Tc Jh] [7c]
+Vampire1566: pasa
+AnxoGM: apuesta 0.87 €
+Vampire1566: iguala 0.87 €
+*** RIVER *** [Kc Tc Jh 7c] [9s]
+Vampire1566: apuesta 0.70 €
+AnxoGM: sube 8.14 € a 8.84 € y está all-in
+Vampire1566: iguala 0.86 € y está all-in
+La apuesta no igualada (7.28 €) ha sido devuelta a AnxoGM
+*** SHOW DOWN ***
+AnxoGM: muestra [Qs 5s] (escalera, de nueve a rey)
+Vampire1566: muestra [Jd Qh] (escalera, de nueve a rey)
+Vampire1566 se lleva 2.94 € del bote
+AnxoGM se lleva 2.94 € del bote
+*** RESUMEN ***
+Bote total 6.26 € | Comisión 0.38 €
+Comunitarias [Kc Tc Jh 7c 9s]
+Asiento 1: noarones (botón) se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 (ciega pequeña) muestra [Jd Qh] y ganó (2.94 €) con escalera, de nueve a rey
+Asiento 3: AnxoGM (ciega grande) muestra [Qs 5s] y ganó (2.94 €) con escalera, de nueve a rey
+Asiento 4: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap se retiró antes del Flop (no apostó)
+
+
+*********** n. 48 **************
+Mano n.º 258500446032 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:39:15 CET [13-11-2025 14:39:15 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 5 es el botón
+Asiento 1: Sr.littel (9.95 € en fichas)
+Asiento 2: noarones (14.15 € en fichas)
+Asiento 3: GabVal3127 (19.12 € en fichas)
+Asiento 4: danydu0057@ (5.60 € en fichas)
+Asiento 5: mivipkr (20.47 € en fichas)
+Asiento 6: Hard0Shade (8.74 € en fichas)
+Hard0Shade: pone la ciega pequeña 0.05 €
+Sr.littel: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [2c 3h]
+noarones: se retira
+GabVal3127: se retira
+danydu0057@: iguala 0.10 €
+mivipkr: sube 0.35 € a 0.45 €
+Hard0Shade: se retira
+Sr.littel: se retira
+danydu0057@: iguala 0.35 €
+*** FLOP *** [8c Ah Ac]
+danydu0057@: pasa
+mivipkr: apuesta 0.30 €
+danydu0057@: se retira
+La apuesta no igualada (0.30 €) ha sido devuelta a mivipkr
+mivipkr se lleva 0.99 € del bote
+mivipkr: no muestra su mano
+*** RESUMEN ***
+Bote total 1.05 € | Comisión 0.06 €
+Comunitarias [8c Ah Ac]
+Asiento 1: Sr.littel (ciega grande) se retiró antes del Flop
+Asiento 2: noarones se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ se retiró en el Flop
+Asiento 5: mivipkr (botón) recaudó (0.99 €)
+Asiento 6: Hard0Shade (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 49 **************
+Mano n.º 258500443599 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:39:05 CET [13-11-2025 14:39:05 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 6 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 2: RemiC27 (5.04 € en fichas)
+Asiento 3: pintas76 (11.56 € en fichas)
+Asiento 4: marco_200150 (10.25 € en fichas)
+Asiento 5: Babu_Sloth (9.90 € en fichas)
+Asiento 6: noarones (12.44 € en fichas)
+alhambra111: pone la ciega pequeña 0.05 €
+RemiC27: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [7d 4d]
+pintas76: se retira
+marco_200150: se retira
+Babu_Sloth: se retira
+noarones: se retira
+alhambra111: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a RemiC27
+RemiC27 se lleva 0.10 € del bote
+RemiC27: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: alhambra111 (ciega pequeña) se retiró antes del Flop
+Asiento 2: RemiC27 (ciega grande) recaudó (0.10 €)
+Asiento 3: pintas76 se retiró antes del Flop (no apostó)
+Asiento 4: marco_200150 se retiró antes del Flop (no apostó)
+Asiento 5: Babu_Sloth se retiró antes del Flop (no apostó)
+Asiento 6: noarones (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 50 **************
+Mano n.º 258500441638 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:38:57 CET [13-11-2025 14:38:57 ET]
+Mesa "Sextans III" 6-max El asiento n.º 6 es el botón
+Asiento 1: noarones (18.20 € en fichas)
+Asiento 2: Vampire1566 (3.08 € en fichas)
+Asiento 3: AnxoGM (10.41 € en fichas)
+Asiento 4: SUB13000 (13.01 € en fichas)
+Asiento 5: NicoStar007 (10.15 € en fichas)
+Asiento 6: ramonyap (15.67 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+Vampire1566: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Qs 7d]
+AnxoGM: se retira
+SUB13000: se retira
+NicoStar007: se retira
+ramonyap: se retira
+noarones: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a Vampire1566
+Vampire1566 se lleva 0.10 € del bote
+Vampire1566: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: noarones (ciega pequeña) se retiró antes del Flop
+Asiento 2: Vampire1566 (ciega grande) recaudó (0.10 €)
+Asiento 3: AnxoGM se retiró antes del Flop (no apostó)
+Asiento 4: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 51 **************
+Mano n.º 258500436597 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:38:35 CET [13-11-2025 14:38:35 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 4 es el botón
+Asiento 1: Sr.littel (9.95 € en fichas)
+Asiento 2: noarones (14.15 € en fichas)
+Asiento 3: GabVal3127 (18.80 € en fichas)
+Asiento 4: danydu0057@ (5.80 € en fichas)
+Asiento 5: mivipkr (20.52 € en fichas)
+Asiento 6: Hard0Shade (8.84 € en fichas)
+mivipkr: pone la ciega pequeña 0.05 €
+Hard0Shade: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [4h As]
+Sr.littel: se retira
+noarones: se retira
+GabVal3127: sube 0.10 € a 0.20 €
+danydu0057@: iguala 0.20 €
+mivipkr: se retira
+Hard0Shade: se retira
+*** FLOP *** [7s Js Qs]
+GabVal3127: pasa
+danydu0057@: pasa
+*** TURN *** [7s Js Qs] [Qh]
+GabVal3127: apuesta 0.20 €
+danydu0057@: se retira
+La apuesta no igualada (0.20 €) ha sido devuelta a GabVal3127
+GabVal3127 se lleva 0.52 € del bote
+GabVal3127: no muestra su mano
+*** RESUMEN ***
+Bote total 0.55 € | Comisión 0.03 €
+Comunitarias [7s Js Qs Qh]
+Asiento 1: Sr.littel se retiró antes del Flop (no apostó)
+Asiento 2: noarones se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 recaudó (0.52 €)
+Asiento 4: danydu0057@ (botón) se retiró en el Turn
+Asiento 5: mivipkr (ciega pequeña) se retiró antes del Flop
+Asiento 6: Hard0Shade (ciega grande) se retiró antes del Flop
+
+
+*********** n. 52 **************
+Mano n.º 258500436428 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:38:35 CET [13-11-2025 14:38:35 ET]
+Mesa "Sextans III" 6-max El asiento n.º 5 es el botón
+Asiento 1: noarones (18.30 € en fichas)
+Asiento 2: Vampire1566 (3.08 € en fichas)
+Asiento 3: AnxoGM (10.41 € en fichas)
+Asiento 4: SUB13000 (13.01 € en fichas)
+Asiento 5: NicoStar007 (10.15 € en fichas)
+Asiento 6: ramonyap (15.57 € en fichas)
+ramonyap: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [6d Qh]
+Vampire1566: se retira
+AnxoGM: se retira
+SUB13000: se retira
+NicoStar007: se retira
+ramonyap: sube 0.20 € a 0.30 €
+noarones: se retira
+La apuesta no igualada (0.20 €) ha sido devuelta a ramonyap
+ramonyap se lleva 0.20 € del bote
+ramonyap: no muestra su mano
+*** RESUMEN ***
+Bote total 0.20 € | Comisión 0 €
+Asiento 1: noarones (ciega grande) se retiró antes del Flop
+Asiento 2: Vampire1566 se retiró antes del Flop (no apostó)
+Asiento 3: AnxoGM se retiró antes del Flop (no apostó)
+Asiento 4: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 (botón) se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap (ciega pequeña) recaudó (0.20 €)
+
+
+*********** n. 53 **************
+Mano n.º 258500434729 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:38:27 CET [13-11-2025 14:38:27 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 5 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 2: RemiC27 (5.04 € en fichas)
+Asiento 3: pintas76 (11.56 € en fichas)
+Asiento 4: marco_200150 (10.25 € en fichas)
+Asiento 5: Babu_Sloth (9.13 € en fichas)
+Asiento 6: noarones (12.49 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+alhambra111: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [5h Qh]
+RemiC27: se retira
+pintas76: se retira
+marco_200150: se retira
+Babu_Sloth: sube 0.10 € a 0.20 €
+noarones: se retira
+alhambra111: iguala 0.10 €
+*** FLOP *** [Th 9s 6s]
+alhambra111: pasa
+Babu_Sloth: apuesta 0.21 €
+alhambra111: iguala 0.21 €
+*** TURN *** [Th 9s 6s] [7h]
+alhambra111: pasa
+Babu_Sloth: apuesta 0.41 €
+alhambra111: iguala 0.41 €
+*** RIVER *** [Th 9s 6s 7h] [Ts]
+alhambra111: pasa
+Babu_Sloth: apuesta 8.31 € y está all-in
+alhambra111: se retira
+La apuesta no igualada (8.31 €) ha sido devuelta a Babu_Sloth
+Babu_Sloth se lleva 1.59 € del bote
+Babu_Sloth: no muestra su mano
+*** RESUMEN ***
+Bote total 1.69 € | Comisión 0.10 €
+Comunitarias [Th 9s 6s 7h Ts]
+Asiento 1: alhambra111 (ciega grande) se retiró en el River
+Asiento 2: RemiC27 se retiró antes del Flop (no apostó)
+Asiento 3: pintas76 se retiró antes del Flop (no apostó)
+Asiento 4: marco_200150 se retiró antes del Flop (no apostó)
+Asiento 5: Babu_Sloth (botón) recaudó (1.59 €)
+Asiento 6: noarones (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 54 **************
+Mano n.º 258500433403 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:38:22 CET [13-11-2025 14:38:22 ET]
+Mesa "Sextans III" 6-max El asiento n.º 4 es el botón
+Asiento 1: noarones (18.30 € en fichas)
+Asiento 2: Vampire1566 (3.08 € en fichas)
+Asiento 3: AnxoGM (10.41 € en fichas)
+Asiento 4: SUB13000 (13.01 € en fichas)
+Asiento 5: NicoStar007 (10.05 € en fichas)
+Asiento 6: ramonyap (15.67 € en fichas)
+NicoStar007: pone la ciega pequeña 0.05 €
+ramonyap: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [7c As]
+noarones: se retira
+Vampire1566: se retira
+AnxoGM: se retira
+SUB13000: se retira
+NicoStar007: sube 0.20 € a 0.30 €
+ramonyap: se retira
+La apuesta no igualada (0.20 €) ha sido devuelta a NicoStar007
+NicoStar007 se lleva 0.20 € del bote
+NicoStar007: no muestra su mano
+*** RESUMEN ***
+Bote total 0.20 € | Comisión 0 €
+Asiento 1: noarones se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 se retiró antes del Flop (no apostó)
+Asiento 3: AnxoGM se retiró antes del Flop (no apostó)
+Asiento 4: SUB13000 (botón) se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 (ciega pequeña) recaudó (0.20 €)
+Asiento 6: ramonyap (ciega grande) se retiró antes del Flop
+
+
+*********** n. 55 **************
+Mano n.º 258500433111 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:38:20 CET [13-11-2025 14:38:20 ET]
+Mesa "Themis III" 6-max El asiento n.º 2 es el botón
+Asiento 1: pinochopoker (13.47 € en fichas)
+Asiento 2: marry24 (10.76 € en fichas)
+Asiento 3: SUB13000 (11.64 € en fichas)
+Asiento 4: Heavengods (15.03 € en fichas)
+Asiento 5: anny road (10.08 € en fichas)
+Asiento 6: noarones (16.54 € en fichas)
+SUB13000: pone la ciega pequeña 0.05 €
+Heavengods: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Ac Tc]
+anny road: se retira
+noarones: sube 0.15 € a 0.25 €
+pinochopoker: se retira
+marry24: se retira
+SUB13000: se retira
+Heavengods: sube 0.90 € a 1.15 €
+noarones: se retira
+La apuesta no igualada (0.90 €) ha sido devuelta a Heavengods
+Heavengods se lleva 0.55 € del bote
+Heavengods: no muestra su mano
+*** RESUMEN ***
+Bote total 0.55 € | Comisión 0 €
+Asiento 1: pinochopoker se retiró antes del Flop (no apostó)
+Asiento 2: marry24 (botón) se retiró antes del Flop (no apostó)
+Asiento 3: SUB13000 (ciega pequeña) se retiró antes del Flop
+Asiento 4: Heavengods (ciega grande) recaudó (0.55 €)
+Asiento 5: anny road se retiró antes del Flop (no apostó)
+Asiento 6: noarones se retiró antes del Flop
+
+
+*********** n. 56 **************
+Mano n.º 258500429149 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:38:04 CET [13-11-2025 14:38:04 ET]
+Mesa "Sextans III" 6-max El asiento n.º 3 es el botón
+Asiento 1: noarones (18.30 € en fichas)
+Asiento 2: Vampire1566 (3.08 € en fichas)
+Asiento 3: AnxoGM (10.41 € en fichas)
+Asiento 4: SUB13000 (13.06 € en fichas)
+Asiento 5: NicoStar007 (10 € en fichas)
+Asiento 6: ramonyap (15.67 € en fichas)
+SUB13000: pone la ciega pequeña 0.05 €
+NicoStar007: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Ks Jd]
+ramonyap: se retira
+noarones: se retira
+Vampire1566: se retira
+AnxoGM: se retira
+SUB13000: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a NicoStar007
+NicoStar007 se lleva 0.10 € del bote
+NicoStar007: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: noarones se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 se retiró antes del Flop (no apostó)
+Asiento 3: AnxoGM (botón) se retiró antes del Flop (no apostó)
+Asiento 4: SUB13000 (ciega pequeña) se retiró antes del Flop
+Asiento 5: NicoStar007 (ciega grande) recaudó (0.10 €)
+Asiento 6: ramonyap se retiró antes del Flop (no apostó)
+
+
+*********** n. 57 **************
+Mano n.º 258500429023 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:38:03 CET [13-11-2025 14:38:03 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 4 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 2: RemiC27 (5.14 € en fichas)
+Asiento 3: pintas76 (11.56 € en fichas)
+Asiento 4: marco_200150 (10 € en fichas)
+Asiento 5: Babu_Sloth (9.18 € en fichas)
+Asiento 6: noarones (12.59 € en fichas)
+Babu_Sloth: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [7h 3c]
+alhambra111: se retira
+RemiC27: iguala 0.10 €
+pintas76: se retira
+marco_200150: sube 0.40 € a 0.50 €
+Babu_Sloth: se retira
+noarones: se retira
+RemiC27: se retira
+La apuesta no igualada (0.40 €) ha sido devuelta a marco_200150
+marco_200150 se lleva 0.35 € del bote
+*** RESUMEN ***
+Bote total 0.35 € | Comisión 0 €
+Asiento 1: alhambra111 se retiró antes del Flop (no apostó)
+Asiento 2: RemiC27 se retiró antes del Flop
+Asiento 3: pintas76 se retiró antes del Flop (no apostó)
+Asiento 4: marco_200150 (botón) recaudó (0.35 €)
+Asiento 5: Babu_Sloth (ciega pequeña) se retiró antes del Flop
+Asiento 6: noarones (ciega grande) se retiró antes del Flop
+
+
+*********** n. 58 **************
+Mano n.º 258500427515 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:37:57 CET [13-11-2025 14:37:57 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 3 es el botón
+Asiento 1: Sr.littel (9.95 € en fichas)
+Asiento 2: noarones (14.15 € en fichas)
+Asiento 3: GabVal3127 (18.80 € en fichas)
+Asiento 4: danydu0057@ (6.43 € en fichas)
+Asiento 5: mivipkr (19.97 € en fichas)
+Asiento 6: Hard0Shade (8.84 € en fichas)
+danydu0057@: pone la ciega pequeña 0.05 €
+mivipkr: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Jh Tc]
+Hard0Shade: se retira
+Sr.littel: se retira
+noarones: se retira
+GabVal3127: se retira
+danydu0057@: iguala 0.05 €
+mivipkr: sube 0.30 € a 0.40 €
+danydu0057@: iguala 0.30 €
+*** FLOP *** [6c Kd Ah]
+danydu0057@: pasa
+mivipkr: apuesta 0.23 €
+danydu0057@: iguala 0.23 €
+*** TURN *** [6c Kd Ah] [2h]
+danydu0057@: pasa
+mivipkr: pasa
+*** RIVER *** [6c Kd Ah 2h] [2s]
+danydu0057@: pasa
+mivipkr: pasa
+*** SHOW DOWN ***
+danydu0057@: muestra [Ts Js] (pareja de doses)
+mivipkr: muestra [Qd Qc] (doble pareja, damas y doses)
+mivipkr se lleva 1.18 € del bote
+*** RESUMEN ***
+Bote total 1.26 € | Comisión 0.08 €
+Comunitarias [6c Kd Ah 2h 2s]
+Asiento 1: Sr.littel se retiró antes del Flop (no apostó)
+Asiento 2: noarones se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ (ciega pequeña) muestra [Ts Js] y perdió con pareja de doses
+Asiento 5: mivipkr (ciega grande) muestra [Qd Qc] y ganó (1.18 €) con doble pareja, damas y doses
+Asiento 6: Hard0Shade se retiró antes del Flop (no apostó)
+
+
+*********** n. 59 **************
+Mano n.º 258500425756 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:37:49 CET [13-11-2025 14:37:49 ET]
+Mesa "Themis III" 6-max El asiento n.º 1 es el botón
+Asiento 1: pinochopoker (13.32 € en fichas)
+Asiento 2: marry24 (10.81 € en fichas)
+Asiento 3: SUB13000 (11.74 € en fichas)
+Asiento 4: Heavengods (15.03 € en fichas)
+Asiento 5: anny road (10.08 € en fichas)
+Asiento 6: noarones (16.54 € en fichas)
+marry24: pone la ciega pequeña 0.05 €
+SUB13000: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Ad 4s]
+Heavengods: se retira
+anny road: se retira
+noarones: se retira
+pinochopoker: sube 0.14 € a 0.24 €
+marry24: se retira
+SUB13000: se retira
+La apuesta no igualada (0.14 €) ha sido devuelta a pinochopoker
+pinochopoker se lleva 0.25 € del bote
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0 €
+Asiento 1: pinochopoker (botón) recaudó (0.25 €)
+Asiento 2: marry24 (ciega pequeña) se retiró antes del Flop
+Asiento 3: SUB13000 (ciega grande) se retiró antes del Flop
+Asiento 4: Heavengods se retiró antes del Flop (no apostó)
+Asiento 5: anny road se retiró antes del Flop (no apostó)
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 60 **************
+Mano n.º 258500424681 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:37:45 CET [13-11-2025 14:37:45 ET]
+Mesa "Sextans III" 6-max El asiento n.º 2 es el botón
+Asiento 1: noarones (18.30 € en fichas)
+Asiento 2: Vampire1566 (3.08 € en fichas)
+Asiento 3: AnxoGM (10.46 € en fichas)
+Asiento 4: SUB13000 (13.01 € en fichas)
+Asiento 5: NicoStar007 (10 € en fichas)
+Asiento 6: ramonyap (15.67 € en fichas)
+AnxoGM: pone la ciega pequeña 0.05 €
+SUB13000: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Tc 7h]
+NicoStar007: se retira
+ramonyap: se retira
+noarones: se retira
+Vampire1566: se retira
+AnxoGM: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a SUB13000
+SUB13000 se lleva 0.10 € del bote
+SUB13000: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: noarones se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 (botón) se retiró antes del Flop (no apostó)
+Asiento 3: AnxoGM (ciega pequeña) se retiró antes del Flop
+Asiento 4: SUB13000 (ciega grande) recaudó (0.10 €)
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap se retiró antes del Flop (no apostó)
+
+
+*********** n. 61 **************
+Mano n.º 258500420304 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:37:26 CET [13-11-2025 14:37:26 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 3 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 2: RemiC27 (5.14 € en fichas)
+Asiento 3: pintas76 (11.27 € en fichas)
+Asiento 4: marco_200150 (10 € en fichas)
+Asiento 5: Babu_Sloth (9.46 € en fichas)
+Asiento 6: noarones (12.59 € en fichas)
+marco_200150: pone la ciega pequeña 0.05 €
+Babu_Sloth: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [5c 6s]
+noarones: se retira
+alhambra111: se retira
+RemiC27: se retira
+pintas76: sube 0.18 € a 0.28 €
+marco_200150: se retira
+Babu_Sloth: iguala 0.18 €
+*** FLOP *** [8c Ts 4s]
+Babu_Sloth: pasa
+pintas76: apuesta 0.23 €
+Babu_Sloth: se retira
+La apuesta no igualada (0.23 €) ha sido devuelta a pintas76
+pintas76 se lleva 0.57 € del bote
+pintas76: no muestra su mano
+*** RESUMEN ***
+Bote total 0.61 € | Comisión 0.04 €
+Comunitarias [8c Ts 4s]
+Asiento 1: alhambra111 se retiró antes del Flop (no apostó)
+Asiento 2: RemiC27 se retiró antes del Flop (no apostó)
+Asiento 3: pintas76 (botón) recaudó (0.57 €)
+Asiento 4: marco_200150 (ciega pequeña) se retiró antes del Flop
+Asiento 5: Babu_Sloth (ciega grande) se retiró en el Flop
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 62 **************
+Mano n.º 258500418217 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:37:17 CET [13-11-2025 14:37:17 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 2 es el botón
+Asiento 1: Sr.littel (9.95 € en fichas)
+Asiento 2: noarones (14.15 € en fichas)
+Asiento 3: GabVal3127 (18.54 € en fichas)
+Asiento 4: danydu0057@ (6.73 € en fichas)
+Asiento 5: mivipkr (19.97 € en fichas)
+Asiento 6: Hard0Shade (8.84 € en fichas)
+GabVal3127: pone la ciega pequeña 0.05 €
+danydu0057@: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [5s Kh]
+mivipkr: se retira
+Hard0Shade: se retira
+Sr.littel: se retira
+noarones: se retira
+GabVal3127: sube 0.20 € a 0.30 €
+danydu0057@: iguala 0.20 €
+*** FLOP *** [Kc 8s 9s]
+GabVal3127: pasa
+danydu0057@: pasa
+*** TURN *** [Kc 8s 9s] [9h]
+GabVal3127: apuesta 0.20 €
+danydu0057@: se retira
+La apuesta no igualada (0.20 €) ha sido devuelta a GabVal3127
+GabVal3127 se lleva 0.56 € del bote
+GabVal3127: no muestra su mano
+*** RESUMEN ***
+Bote total 0.60 € | Comisión 0.04 €
+Comunitarias [Kc 8s 9s 9h]
+Asiento 1: Sr.littel se retiró antes del Flop (no apostó)
+Asiento 2: noarones (botón) se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 (ciega pequeña) recaudó (0.56 €)
+Asiento 4: danydu0057@ (ciega grande) se retiró en el Turn
+Asiento 5: mivipkr se retiró antes del Flop (no apostó)
+Asiento 6: Hard0Shade se retiró antes del Flop (no apostó)
+
+
+*********** n. 63 **************
+Mano n.º 258500415534 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:37:06 CET [13-11-2025 14:37:06 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 2 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 2: RemiC27 (4.99 € en fichas)
+Asiento 3: pintas76 (11.32 € en fichas)
+Asiento 4: marco_200150 (10 € en fichas)
+Asiento 5: Babu_Sloth (9.46 € en fichas)
+Asiento 6: noarones (12.59 € en fichas)
+pintas76: pone la ciega pequeña 0.05 €
+marco_200150: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Tc Js]
+Babu_Sloth: se retira
+noarones: se retira
+alhambra111: se retira
+RemiC27: sube 0.10 € a 0.20 €
+pintas76: se retira
+marco_200150: se retira
+La apuesta no igualada (0.10 €) ha sido devuelta a RemiC27
+RemiC27 se lleva 0.25 € del bote
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0 €
+Asiento 1: alhambra111 se retiró antes del Flop (no apostó)
+Asiento 2: RemiC27 (botón) recaudó (0.25 €)
+Asiento 3: pintas76 (ciega pequeña) se retiró antes del Flop
+Asiento 4: marco_200150 (ciega grande) se retiró antes del Flop
+Asiento 5: Babu_Sloth se retiró antes del Flop (no apostó)
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 64 **************
+Mano n.º 258500412457 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:36:53 CET [13-11-2025 14:36:53 ET]
+Mesa "Themis III" 6-max El asiento n.º 6 es el botón
+Asiento 1: pinochopoker (13.37 € en fichas)
+Asiento 2: marry24 (10.51 € en fichas)
+Asiento 3: SUB13000 (11.74 € en fichas)
+Asiento 4: Heavengods (15.03 € en fichas)
+Asiento 5: anny road (10.08 € en fichas)
+Asiento 6: noarones (16.79 € en fichas)
+pinochopoker: pone la ciega pequeña 0.05 €
+marry24: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [As Td]
+SUB13000: se retira
+Heavengods: se retira
+anny road: se retira
+noarones: sube 0.15 € a 0.25 €
+pinochopoker: se retira
+marry24: sube 0.85 € a 1.10 €
+noarones: se retira
+La apuesta no igualada (0.85 €) ha sido devuelta a marry24
+marry24 se lleva 0.55 € del bote
+marry24: no muestra su mano
+*** RESUMEN ***
+Bote total 0.55 € | Comisión 0 €
+Asiento 1: pinochopoker (ciega pequeña) se retiró antes del Flop
+Asiento 2: marry24 (ciega grande) recaudó (0.55 €)
+Asiento 3: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods se retiró antes del Flop (no apostó)
+Asiento 5: anny road se retiró antes del Flop (no apostó)
+Asiento 6: noarones (botón) se retiró antes del Flop
+
+
+*********** n. 65 **************
+Mano n.º 258500410085 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:36:43 CET [13-11-2025 14:36:43 ET]
+Mesa "Sextans III" 6-max El asiento n.º 1 es el botón
+Asiento 1: noarones (17.55 € en fichas)
+Asiento 2: Vampire1566 (3.13 € en fichas)
+Asiento 3: AnxoGM (11.26 € en fichas)
+Asiento 5: NicoStar007 (10 € en fichas)
+Asiento 6: ramonyap (15.67 € en fichas)
+Vampire1566: pone la ciega pequeña 0.05 €
+AnxoGM: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [6h 6d]
+NicoStar007: se retira
+ramonyap: se retira
+noarones: sube 0.15 € a 0.25 €
+Vampire1566: se retira
+AnxoGM: iguala 0.15 €
+*** FLOP *** [8d Th Kh]
+AnxoGM: pasa
+noarones: apuesta 0.15 €
+AnxoGM: iguala 0.15 €
+*** TURN *** [8d Th Kh] [9h]
+AnxoGM: pasa
+noarones: apuesta 0.40 €
+AnxoGM: iguala 0.40 €
+*** RIVER *** [8d Th Kh 9h] [Qh]
+AnxoGM: pasa
+noarones dijo, "joder"
+noarones: apuesta 0.20 €
+AnxoGM: se retira
+La apuesta no igualada (0.20 €) ha sido devuelta a noarones
+noarones se lleva 1.55 € del bote
+noarones: no muestra su mano
+*** RESUMEN ***
+Bote total 1.65 € | Comisión 0.10 €
+Comunitarias [8d Th Kh 9h Qh]
+Asiento 1: noarones (botón) recaudó (1.55 €)
+Asiento 2: Vampire1566 (ciega pequeña) se retiró antes del Flop
+Asiento 3: AnxoGM (ciega grande) se retiró en el River
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap se retiró antes del Flop (no apostó)
+
+
+*********** n. 66 **************
+Mano n.º 258500409381 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:36:40 CET [13-11-2025 14:36:40 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 1 es el botón
+Asiento 1: Sr.littel (9.95 € en fichas)
+Asiento 2: noarones (14.20 € en fichas)
+Asiento 3: GabVal3127 (18.19 € en fichas)
+Asiento 4: danydu0057@ (6.73 € en fichas)
+Asiento 5: mivipkr (19.97 € en fichas)
+Asiento 6: Hard0Shade (9.14 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+GabVal3127: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [3c 5h]
+danydu0057@: se retira
+mivipkr: se retira
+Hard0Shade: sube 0.20 € a 0.30 €
+Sr.littel: se retira
+noarones: se retira
+GabVal3127: sube 0.60 € a 0.90 €
+Hard0Shade: se retira
+La apuesta no igualada (0.60 €) ha sido devuelta a GabVal3127
+GabVal3127 se lleva 0.65 € del bote
+GabVal3127: no muestra su mano
+*** RESUMEN ***
+Bote total 0.65 € | Comisión 0 €
+Asiento 1: Sr.littel (botón) se retiró antes del Flop (no apostó)
+Asiento 2: noarones (ciega pequeña) se retiró antes del Flop
+Asiento 3: GabVal3127 (ciega grande) recaudó (0.65 €)
+Asiento 4: danydu0057@ se retiró antes del Flop (no apostó)
+Asiento 5: mivipkr se retiró antes del Flop (no apostó)
+Asiento 6: Hard0Shade se retiró antes del Flop
+
+
+*********** n. 67 **************
+Mano n.º 258500408420 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:36:36 CET [13-11-2025 14:36:36 ET]
+Mesa "Themis III" 6-max El asiento n.º 5 es el botón
+Asiento 1: pinochopoker (13.32 € en fichas)
+Asiento 2: marry24 (10.51 € en fichas)
+Asiento 3: SUB13000 (11.74 € en fichas)
+Asiento 4: Heavengods (15.03 € en fichas)
+Asiento 5: anny road (10.08 € en fichas)
+Asiento 6: noarones (16.84 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+pinochopoker: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [9d 8h]
+marry24: se retira
+SUB13000: se retira
+Heavengods: se retira
+anny road: se retira
+noarones: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a pinochopoker
+pinochopoker se lleva 0.10 € del bote
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: pinochopoker (ciega grande) recaudó (0.10 €)
+Asiento 2: marry24 se retiró antes del Flop (no apostó)
+Asiento 3: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods se retiró antes del Flop (no apostó)
+Asiento 5: anny road (botón) se retiró antes del Flop (no apostó)
+Asiento 6: noarones (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 68 **************
+Mano n.º 258500402164 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:36:09 CET [13-11-2025 14:36:09 ET]
+Mesa "Sextans III" 6-max El asiento n.º 6 es el botón
+Asiento 1: noarones (17.60 € en fichas)
+Asiento 2: Vampire1566 (3.23 € en fichas)
+Asiento 3: AnxoGM (11.26 € en fichas)
+Asiento 5: NicoStar007 (10 € en fichas)
+Asiento 6: ramonyap (15.52 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+Vampire1566: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Kh Tc]
+AnxoGM: se retira
+NicoStar007 ha agotado su tiempo
+NicoStar007: se retira
+ramonyap: sube 0.20 € a 0.30 €
+noarones: se retira
+Vampire1566: se retira
+La apuesta no igualada (0.20 €) ha sido devuelta a ramonyap
+ramonyap se lleva 0.25 € del bote
+ramonyap: no muestra su mano
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0 €
+Asiento 1: noarones (ciega pequeña) se retiró antes del Flop
+Asiento 2: Vampire1566 (ciega grande) se retiró antes del Flop
+Asiento 3: AnxoGM se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap (botón) recaudó (0.25 €)
+
+
+*********** n. 69 **************
+Mano n.º 258500397641 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:35:50 CET [13-11-2025 14:35:50 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 1 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 2: RemiC27 (5.04 € en fichas)
+Asiento 3: pintas76 (10.18 € en fichas)
+Asiento 5: Babu_Sloth (9.46 € en fichas)
+Asiento 6: noarones (12.59 € en fichas)
+RemiC27: pone la ciega pequeña 0.05 €
+pintas76: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Kd 2s]
+Babu_Sloth: se retira
+noarones: se retira
+alhambra111: sube 0.20 € a 0.30 €
+RemiC27: se retira
+pintas76: iguala 0.20 €
+*** FLOP *** [4h 4d Ac]
+pintas76: pasa
+alhambra111: apuesta 0.20 €
+pintas76: iguala 0.20 €
+*** TURN *** [4h 4d Ac] [7s]
+pintas76: pasa
+alhambra111: pasa
+*** RIVER *** [4h 4d Ac 7s] [5d]
+pintas76: apuesta 0.74 €
+alhambra111: iguala 0.74 €
+*** SHOW DOWN ***
+pintas76: muestra [Ad 5h] (doble pareja, ases y cincos)
+alhambra111: descarta su mano sin mostrar
+pintas76 se lleva 2.38 € del bote
+*** RESUMEN ***
+Bote total 2.53 € | Comisión 0.15 €
+Comunitarias [4h 4d Ac 7s 5d]
+Asiento 1: alhambra111 (botón) descartó sin mostrar [Jh Js]
+Asiento 2: RemiC27 (ciega pequeña) se retiró antes del Flop
+Asiento 3: pintas76 (ciega grande) muestra [Ad 5h] y ganó (2.38 €) con doble pareja, ases y cincos
+Asiento 5: Babu_Sloth se retiró antes del Flop (no apostó)
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 70 **************
+Mano n.º 258500395451 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:35:41 CET [13-11-2025 14:35:41 ET]
+Mesa "Sextans III" 6-max El asiento n.º 5 es el botón
+Asiento 1: noarones (17.70 € en fichas)
+Asiento 2: Vampire1566 (3.10 € en fichas)
+Asiento 3: AnxoGM (11.26 € en fichas)
+Asiento 5: NicoStar007 (10 € en fichas)
+Asiento 6: ramonyap (15.57 € en fichas)
+ramonyap: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [7d Jd]
+Vampire1566: iguala 0.10 €
+AnxoGM: se retira
+NicoStar007: se retira
+ramonyap: se retira
+noarones: pasa
+*** FLOP *** [3c 5s As]
+noarones: pasa
+Vampire1566: apuesta 0.20 €
+noarones: se retira
+La apuesta no igualada (0.20 €) ha sido devuelta a Vampire1566
+Vampire1566 se lleva 0.23 € del bote
+Vampire1566: no muestra su mano
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0.02 €
+Comunitarias [3c 5s As]
+Asiento 1: noarones (ciega grande) se retiró en el Flop
+Asiento 2: Vampire1566 recaudó (0.23 €)
+Asiento 3: AnxoGM se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 (botón) se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 71 **************
+Mano n.º 258500391998 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:35:27 CET [13-11-2025 14:35:27 ET]
+Mesa "Themis III" 6-max El asiento n.º 4 es el botón
+Asiento 1: pinochopoker (13.32 € en fichas)
+Asiento 2: marry24 (10.51 € en fichas)
+Asiento 3: SUB13000 (11.74 € en fichas)
+Asiento 4: Heavengods (15.03 € en fichas)
+Asiento 5: anny road (9.90 € en fichas)
+Asiento 6: noarones (17.04 € en fichas)
+anny road: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [5h 4h]
+pinochopoker: se retira
+marry24: se retira
+SUB13000: se retira
+Heavengods: se retira
+anny road: sube 0.10 € a 0.20 €
+noarones: iguala 0.10 €
+*** FLOP *** [Js 9d Jc]
+anny road: pasa
+noarones: pasa
+*** TURN *** [Js 9d Jc] [3h]
+anny road: apuesta 0.19 €
+noarones ha agotado su tiempo
+noarones: se retira
+La apuesta no igualada (0.19 €) ha sido devuelta a anny road
+anny road se lleva 0.38 € del bote
+*** RESUMEN ***
+Bote total 0.40 € | Comisión 0.02 €
+Comunitarias [Js 9d Jc 3h]
+Asiento 1: pinochopoker se retiró antes del Flop (no apostó)
+Asiento 2: marry24 se retiró antes del Flop (no apostó)
+Asiento 3: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods (botón) se retiró antes del Flop (no apostó)
+Asiento 5: anny road (ciega pequeña) recaudó (0.38 €)
+Asiento 6: noarones (ciega grande) se retiró en el Turn
+
+
+*********** n. 72 **************
+Mano n.º 258500391347 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:35:24 CET [13-11-2025 14:35:24 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 6 es el botón
+Asiento 1: Sr.littel (10 € en fichas)
+Asiento 2: noarones (14.60 € en fichas)
+Asiento 3: GabVal3127 (18.19 € en fichas)
+Asiento 4: danydu0057@ (6.73 € en fichas)
+Asiento 5: mivipkr (19.57 € en fichas)
+Asiento 6: Hard0Shade (9.14 € en fichas)
+Sr.littel: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Qc Kd]
+GabVal3127: se retira
+danydu0057@: se retira
+mivipkr: sube 0.15 € a 0.25 €
+Hard0Shade: se retira
+Sr.littel: se retira
+noarones: iguala 0.15 €
+*** FLOP *** [2h 4h Jh]
+noarones: apuesta 0.15 €
+mivipkr: iguala 0.15 €
+*** TURN *** [2h 4h Jh] [Ts]
+noarones: pasa
+mivipkr: apuesta 1.20 €
+noarones: se retira
+La apuesta no igualada (1.20 €) ha sido devuelta a mivipkr
+mivipkr se lleva 0.80 € del bote
+mivipkr: no muestra su mano
+*** RESUMEN ***
+Bote total 0.85 € | Comisión 0.05 €
+Comunitarias [2h 4h Jh Ts]
+Asiento 1: Sr.littel (ciega pequeña) se retiró antes del Flop
+Asiento 2: noarones (ciega grande) se retiró en el Turn
+Asiento 3: GabVal3127 se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ se retiró antes del Flop (no apostó)
+Asiento 5: mivipkr recaudó (0.80 €)
+Asiento 6: Hard0Shade (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 73 **************
+Mano n.º 258500386669 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:35:04 CET [13-11-2025 14:35:04 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 6 es el botón
+Asiento 1: alhambra111 (10.09 € en fichas)
+Asiento 2: RemiC27 (5.52 € en fichas)
+Asiento 3: pintas76 (10.18 € en fichas)
+Asiento 5: Babu_Sloth (8.59 € en fichas)
+Asiento 6: noarones (12.59 € en fichas)
+alhambra111: pone la ciega pequeña 0.05 €
+RemiC27: pone la ciega grande 0.10 €
+marco_200150 tiene conexión
+*** CARTAS DE MANO ***
+Repartidas a noarones [4c 3s]
+pintas76: se retira
+Babu_Sloth: sube 0.10 € a 0.20 €
+noarones: se retira
+alhambra111: iguala 0.15 €
+RemiC27: iguala 0.10 €
+*** FLOP *** [9d Kh 6c]
+alhambra111: pasa
+RemiC27: pasa
+Babu_Sloth: apuesta 0.28 €
+alhambra111: iguala 0.28 €
+RemiC27: iguala 0.28 €
+*** TURN *** [9d Kh 6c] [Th]
+alhambra111: pasa
+RemiC27: pasa
+Babu_Sloth: apuesta 1.35 €
+alhambra111: se retira
+RemiC27: se retira
+La apuesta no igualada (1.35 €) ha sido devuelta a Babu_Sloth
+Babu_Sloth se lleva 1.35 € del bote
+Babu_Sloth: no muestra su mano
+*** RESUMEN ***
+Bote total 1.44 € | Comisión 0.09 €
+Comunitarias [9d Kh 6c Th]
+Asiento 1: alhambra111 (ciega pequeña) se retiró en el Turn
+Asiento 2: RemiC27 (ciega grande) se retiró en el Turn
+Asiento 3: pintas76 se retiró antes del Flop (no apostó)
+Asiento 5: Babu_Sloth recaudó (1.35 €)
+Asiento 6: noarones (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 74 **************
+Mano n.º 258500382611 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:34:47 CET [13-11-2025 14:34:47 ET]
+Mesa "Sextans III" 6-max El asiento n.º 3 es el botón
+Asiento 1: noarones (17.70 € en fichas)
+Asiento 2: Vampire1566 (3.10 € en fichas)
+Asiento 3: AnxoGM (10 € en fichas)
+Asiento 5: NicoStar007 (11.05 € en fichas)
+Asiento 6: ramonyap (15.67 € en fichas)
+A SUB13000 se le permitirá jugar después del botón
+NicoStar007: pone la ciega pequeña 0.05 €
+ramonyap: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Qh 4s]
+noarones: se retira
+Vampire1566: se retira
+AnxoGM: sube 0.15 € a 0.25 €
+NicoStar007: sube 0.55 € a 0.80 €
+ramonyap: se retira
+AnxoGM: iguala 0.55 €
+*** FLOP *** [3s 6h 7c]
+NicoStar007: apuesta 0.53 €
+AnxoGM: iguala 0.53 €
+*** TURN *** [3s 6h 7c] [5h]
+NicoStar007: pasa
+AnxoGM: apuesta 1.71 €
+NicoStar007: se retira
+La apuesta no igualada (1.71 €) ha sido devuelta a AnxoGM
+AnxoGM se lleva 2.59 € del bote
+AnxoGM: no muestra su mano
+*** RESUMEN ***
+Bote total 2.76 € | Comisión 0.17 €
+Comunitarias [3s 6h 7c 5h]
+Asiento 1: noarones se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 se retiró antes del Flop (no apostó)
+Asiento 3: AnxoGM (botón) recaudó (2.59 €)
+Asiento 5: NicoStar007 (ciega pequeña) se retiró en el Turn
+Asiento 6: ramonyap (ciega grande) se retiró antes del Flop
+
+
+*********** n. 75 **************
+Mano n.º 258500382469 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:34:46 CET [13-11-2025 14:34:46 ET]
+Mesa "Themis III" 6-max El asiento n.º 3 es el botón
+Asiento 1: pinochopoker (13.32 € en fichas)
+Asiento 2: marry24 (10.15 € en fichas)
+Asiento 3: SUB13000 (11.99 € en fichas)
+Asiento 4: Heavengods (15.08 € en fichas)
+Asiento 5: anny road (10 € en fichas)
+Asiento 6: noarones (17.04 € en fichas)
+Heavengods: pone la ciega pequeña 0.05 €
+anny road: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [9s 3c]
+noarones: se retira
+pinochopoker: se retira
+marry24: sube 0.15 € a 0.25 €
+SUB13000: iguala 0.25 €
+Heavengods: se retira
+anny road: se retira
+*** FLOP *** [4d 9c 3d]
+marry24: apuesta 0.30 €
+SUB13000: se retira
+La apuesta no igualada (0.30 €) ha sido devuelta a marry24
+marry24 se lleva 0.61 € del bote
+marry24: no muestra su mano
+*** RESUMEN ***
+Bote total 0.65 € | Comisión 0.04 €
+Comunitarias [4d 9c 3d]
+Asiento 1: pinochopoker se retiró antes del Flop (no apostó)
+Asiento 2: marry24 recaudó (0.61 €)
+Asiento 3: SUB13000 (botón) se retiró en el Flop
+Asiento 4: Heavengods (ciega pequeña) se retiró antes del Flop
+Asiento 5: anny road (ciega grande) se retiró antes del Flop
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 76 **************
+Mano n.º 258500377003 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:34:23 CET [13-11-2025 14:34:23 ET]
+Mesa "Themis III" 6-max El asiento n.º 2 es el botón
+Asiento 1: pinochopoker (13.32 € en fichas)
+Asiento 2: marry24 (10 € en fichas)
+Asiento 3: SUB13000 (12.04 € en fichas)
+Asiento 4: Heavengods (15.18 € en fichas)
+Asiento 5: anny road (10 € en fichas)
+Asiento 6: noarones (17.04 € en fichas)
+SUB13000: pone la ciega pequeña 0.05 €
+Heavengods: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [4s Qd]
+anny road: se retira
+noarones: se retira
+pinochopoker: se retira
+marry24: sube 0.15 € a 0.25 €
+SUB13000: se retira
+Heavengods: se retira
+La apuesta no igualada (0.15 €) ha sido devuelta a marry24
+marry24 se lleva 0.25 € del bote
+marry24: no muestra su mano
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0 €
+Asiento 1: pinochopoker se retiró antes del Flop (no apostó)
+Asiento 2: marry24 (botón) recaudó (0.25 €)
+Asiento 3: SUB13000 (ciega pequeña) se retiró antes del Flop
+Asiento 4: Heavengods (ciega grande) se retiró antes del Flop
+Asiento 5: anny road se retiró antes del Flop (no apostó)
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 77 **************
+Mano n.º 258500372417 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:34:04 CET [13-11-2025 14:34:04 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 5 es el botón
+Asiento 1: alhambra111 (10.19 € en fichas)
+Asiento 2: RemiC27 (5.62 € en fichas)
+Asiento 3: pintas76 (10.63 € en fichas)
+Asiento 4: Capeeeee (23.73 € en fichas)
+Asiento 5: Babu_Sloth (10.84 € en fichas)
+Asiento 6: noarones (10 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+alhambra111: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Ac Ad]
+Capeeeee dijo, "xd"
+RemiC27: iguala 0.10 €
+pintas76: sube 0.35 € a 0.45 €
+Capeeeee: se retira
+Babu_Sloth: sube 0.35 € a 0.80 €
+Capeeeee deja la mesa
+noarones: sube 1.45 € a 2.25 €
+alhambra111: se retira
+RemiC27: se retira
+pintas76: se retira
+Babu_Sloth: iguala 1.45 €
+*** FLOP *** [6h 6c 3s]
+noarones: pasa
+Babu_Sloth: pasa
+*** TURN *** [6h 6c 3s] [3h]
+noarones: apuesta 1.75 €
+Babu_Sloth: se retira
+La apuesta no igualada (1.75 €) ha sido devuelta a noarones
+noarones se lleva 4.84 € del bote
+noarones: no muestra su mano
+marco_200150 se une a la mesa en el asiento n.º 4
+*** RESUMEN ***
+Bote total 5.15 € | Comisión 0.31 €
+Comunitarias [6h 6c 3s 3h]
+Asiento 1: alhambra111 (ciega grande) se retiró antes del Flop
+Asiento 2: RemiC27 se retiró antes del Flop
+Asiento 3: pintas76 se retiró antes del Flop
+Asiento 4: Capeeeee se retiró antes del Flop (no apostó)
+Asiento 5: Babu_Sloth (botón) se retiró en el Turn
+Asiento 6: noarones (ciega pequeña) recaudó (4.84 €)
+
+
+*********** n. 78 **************
+Mano n.º 258500370105 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:33:54 CET [13-11-2025 14:33:54 ET]
+Mesa "Themis III" 6-max El asiento n.º 1 es el botón
+Asiento 1: pinochopoker (13.17 € en fichas)
+Asiento 2: marry24 (10 € en fichas)
+Asiento 3: SUB13000 (12.14 € en fichas)
+Asiento 4: Heavengods (15.18 € en fichas)
+Asiento 5: anny road (10 € en fichas)
+Asiento 6: noarones (17.04 € en fichas)
+marry24: pone la ciega pequeña 0.05 €
+SUB13000: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [4h 9h]
+Heavengods: se retira
+anny road: se retira
+noarones: se retira
+pinochopoker: sube 0.14 € a 0.24 €
+marry24: se retira
+SUB13000: se retira
+La apuesta no igualada (0.14 €) ha sido devuelta a pinochopoker
+pinochopoker se lleva 0.25 € del bote
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0 €
+Asiento 1: pinochopoker (botón) recaudó (0.25 €)
+Asiento 2: marry24 (ciega pequeña) se retiró antes del Flop
+Asiento 3: SUB13000 (ciega grande) se retiró antes del Flop
+Asiento 4: Heavengods se retiró antes del Flop (no apostó)
+Asiento 5: anny road se retiró antes del Flop (no apostó)
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 79 **************
+Mano n.º 258500368760 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:33:48 CET [13-11-2025 14:33:48 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 5 es el botón
+Asiento 1: Sr.littel (10.26 € en fichas)
+Asiento 2: noarones (14.60 € en fichas)
+Asiento 3: GabVal3127 (18.19 € en fichas)
+Asiento 4: danydu0057@ (7.18 € en fichas)
+Asiento 5: mivipkr (20.02 € en fichas)
+Asiento 6: Hard0Shade (7.90 € en fichas)
+Hard0Shade: pone la ciega pequeña 0.05 €
+Sr.littel: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [8s 6c]
+noarones: se retira
+GabVal3127: se retira
+danydu0057@: iguala 0.10 €
+mivipkr: sube 0.35 € a 0.45 €
+Hard0Shade: iguala 0.40 €
+Sr.littel: iguala 0.35 €
+danydu0057@: iguala 0.35 €
+*** FLOP *** [9d 9c Td]
+Hard0Shade: pasa
+Sr.littel: pasa
+danydu0057@: pasa
+mivipkr: pasa
+*** TURN *** [9d 9c Td] [2h]
+Hard0Shade: pasa
+Sr.littel: pasa
+danydu0057@: pasa
+mivipkr: pasa
+*** RIVER *** [9d 9c Td 2h] [4h]
+Hard0Shade: apuesta 0.80 €
+Sr.littel: se retira
+danydu0057@: se retira
+mivipkr: se retira
+La apuesta no igualada (0.80 €) ha sido devuelta a Hard0Shade
+Hard0Shade se lleva 1.69 € del bote
+*** RESUMEN ***
+Bote total 1.80 € | Comisión 0.11 €
+Comunitarias [9d 9c Td 2h 4h]
+Asiento 1: Sr.littel (ciega grande) se retiró en el River
+Asiento 2: noarones se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ se retiró en el River
+Asiento 5: mivipkr (botón) se retiró en el River
+Asiento 6: Hard0Shade (ciega pequeña) recaudó (1.69 €)
+
+
+*********** n. 80 **************
+Mano n.º 258500365935 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:33:36 CET [13-11-2025 14:33:36 ET]
+Mesa "Sextans III" 6-max El asiento n.º 2 es el botón
+Asiento 1: noarones (17.70 € en fichas)
+Asiento 2: Vampire1566 (6.10 € en fichas)
+Asiento 3: AnxoGM (10 € en fichas)
+Asiento 5: NicoStar007 (11.15 € en fichas)
+Asiento 6: ramonyap (12.89 € en fichas)
+AnxoGM: pone la ciega pequeña 0.05 €
+NicoStar007: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [4c 4d]
+ramonyap: sube 0.20 € a 0.30 €
+noarones: se retira
+Vampire1566: sube 0.30 € a 0.60 €
+AnxoGM: se retira
+NicoStar007: se retira
+ramonyap: iguala 0.30 €
+*** FLOP *** [Kc Jd 2d]
+ramonyap: pasa
+Vampire1566: apuesta 0.90 €
+ramonyap: iguala 0.90 €
+*** TURN *** [Kc Jd 2d] [3s]
+ramonyap: pasa
+Vampire1566: apuesta 1.50 €
+ramonyap: iguala 1.50 €
+*** RIVER *** [Kc Jd 2d 3s] [3d]
+ramonyap: pasa
+Vampire1566: pasa
+*** SHOW DOWN ***
+ramonyap: muestra [Ks Ts] (doble pareja, reyes y treses)
+Vampire1566: descarta su mano sin mostrar
+ramonyap se lleva 5.78 € del bote
+*** RESUMEN ***
+Bote total 6.15 € | Comisión 0.37 €
+Comunitarias [Kc Jd 2d 3s 3d]
+Asiento 1: noarones se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 (botón) descartó sin mostrar [Ah Qh]
+Asiento 3: AnxoGM (ciega pequeña) se retiró antes del Flop
+Asiento 5: NicoStar007 (ciega grande) se retiró antes del Flop
+Asiento 6: ramonyap muestra [Ks Ts] y ganó (5.78 €) con doble pareja, reyes y treses
+
+
+*********** n. 81 **************
+Mano n.º 258500365076 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:33:33 CET [13-11-2025 14:33:33 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 4 es el botón
+Asiento 1: Sr.littel (10.26 € en fichas)
+Asiento 2: noarones (14.60 € en fichas)
+Asiento 3: GabVal3127 (18.19 € en fichas)
+Asiento 4: danydu0057@ (7.18 € en fichas)
+Asiento 5: mivipkr (19.92 € en fichas)
+Asiento 6: Hard0Shade (8 € en fichas)
+mivipkr: pone la ciega pequeña 0.05 €
+Hard0Shade: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [2s 3c]
+Sr.littel: se retira
+noarones: se retira
+GabVal3127: se retira
+danydu0057@: se retira
+mivipkr: sube 0.15 € a 0.25 €
+Hard0Shade: se retira
+La apuesta no igualada (0.15 €) ha sido devuelta a mivipkr
+mivipkr se lleva 0.20 € del bote
+mivipkr: no muestra su mano
+*** RESUMEN ***
+Bote total 0.20 € | Comisión 0 €
+Asiento 1: Sr.littel se retiró antes del Flop (no apostó)
+Asiento 2: noarones se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ (botón) se retiró antes del Flop (no apostó)
+Asiento 5: mivipkr (ciega pequeña) recaudó (0.20 €)
+Asiento 6: Hard0Shade (ciega grande) se retiró antes del Flop
+
+
+*********** n. 82 **************
+Mano n.º 258500363254 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:33:25 CET [13-11-2025 14:33:25 ET]
+Mesa "Themis III" 6-max El asiento n.º 6 es el botón
+Asiento 1: pinochopoker (13.07 € en fichas)
+Asiento 2: marry24 (10 € en fichas)
+Asiento 3: SUB13000 (12.14 € en fichas)
+Asiento 4: Heavengods (15.18 € en fichas)
+Asiento 5: anny road (10 € en fichas)
+Asiento 6: noarones (17.04 € en fichas)
+pinochopoker: pone la ciega pequeña 0.05 €
+marry24: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [8c 7c]
+SUB13000: se retira
+Heavengods: se retira
+anny road: se retira
+noarones: se retira
+pinochopoker: sube 0.20 € a 0.30 €
+marry24: se retira
+La apuesta no igualada (0.20 €) ha sido devuelta a pinochopoker
+pinochopoker se lleva 0.20 € del bote
+*** RESUMEN ***
+Bote total 0.20 € | Comisión 0 €
+Asiento 1: pinochopoker (ciega pequeña) recaudó (0.20 €)
+Asiento 2: marry24 (ciega grande) se retiró antes del Flop
+Asiento 3: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods se retiró antes del Flop (no apostó)
+Asiento 5: anny road se retiró antes del Flop (no apostó)
+Asiento 6: noarones (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 83 **************
+Mano n.º 258500362289 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:33:21 CET [13-11-2025 14:33:21 ET]
+Mesa "Sextans III" 6-max El asiento n.º 1 es el botón
+Asiento 1: noarones (17.70 € en fichas)
+Asiento 2: Vampire1566 (6.15 € en fichas)
+Asiento 3: AnxoGM (10 € en fichas)
+Asiento 5: NicoStar007 (11.15 € en fichas)
+Asiento 6: ramonyap (12.74 € en fichas)
+Vampire1566: pone la ciega pequeña 0.05 €
+AnxoGM: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [7c Ad]
+NicoStar007: se retira
+ramonyap: sube 0.20 € a 0.30 €
+noarones: se retira
+Vampire1566: se retira
+AnxoGM: se retira
+La apuesta no igualada (0.20 €) ha sido devuelta a ramonyap
+ramonyap se lleva 0.25 € del bote
+ramonyap: no muestra su mano
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0 €
+Asiento 1: noarones (botón) se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 (ciega pequeña) se retiró antes del Flop
+Asiento 3: AnxoGM (ciega grande) se retiró antes del Flop
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap recaudó (0.25 €)
+
+
+*********** n. 84 **************
+Mano n.º 258500360001 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:33:12 CET [13-11-2025 14:33:12 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 4 es el botón
+Asiento 1: alhambra111 (10.19 € en fichas)
+Asiento 2: RemiC27 (5.62 € en fichas)
+Asiento 3: pintas76 (10.63 € en fichas)
+Asiento 4: Capeeeee (12.44 € en fichas)
+Asiento 5: Babu_Sloth (23.28 € en fichas)
+Asiento 6: noarones (10 € en fichas)
+Babu_Sloth: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [4d Jc]
+alhambra111: se retira
+RemiC27: se retira
+pintas76: se retira
+Capeeeee: sube 0.20 € a 0.30 €
+Babu_Sloth: sube 0.20 € a 0.50 €
+noarones: se retira
+Capeeeee: sube 1.50 € a 2 €
+Babu_Sloth: iguala 1.50 €
+*** FLOP *** [Jh 7h 8s]
+Babu_Sloth: pasa
+Capeeeee: apuesta 1.93 €
+Babu_Sloth: iguala 1.93 €
+*** TURN *** [Jh 7h 8s] [4c]
+Babu_Sloth: pasa
+Capeeeee: apuesta 2.24 €
+Babu_Sloth: iguala 2.24 €
+*** RIVER *** [Jh 7h 8s 4c] [9s]
+Babu_Sloth: pasa
+Capeeeee: apuesta 6.27 € y está all-in
+Babu_Sloth: iguala 6.27 €
+*** SHOW DOWN ***
+Capeeeee: muestra [Ac Ad] (pareja de ases)
+Babu_Sloth: muestra [Kd 9d] (pareja de nueves)
+Capeeeee se lleva 23.73 € del bote
+*** RESUMEN ***
+Bote total 24.98 € | Comisión 1.25 €
+Comunitarias [Jh 7h 8s 4c 9s]
+Asiento 1: alhambra111 se retiró antes del Flop (no apostó)
+Asiento 2: RemiC27 se retiró antes del Flop (no apostó)
+Asiento 3: pintas76 se retiró antes del Flop (no apostó)
+Asiento 4: Capeeeee (botón) muestra [Ac Ad] y ganó (23.73 €) con pareja de ases
+Asiento 5: Babu_Sloth (ciega pequeña) muestra [Kd 9d] y perdió con pareja de nueves
+Asiento 6: noarones (ciega grande) se retiró antes del Flop
+
+
+*********** n. 85 **************
+Mano n.º 258500358858 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:33:07 CET [13-11-2025 14:33:07 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 3 es el botón
+Asiento 1: Sr.littel (10.26 € en fichas)
+Asiento 2: noarones (14.60 € en fichas)
+Asiento 3: GabVal3127 (18.19 € en fichas)
+Asiento 4: danydu0057@ (6.92 € en fichas)
+Asiento 5: mivipkr (20.21 € en fichas)
+danydu0057@: pone la ciega pequeña 0.05 €
+mivipkr: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [7h 3s]
+Sr.littel: se retira
+noarones: se retira
+GabVal3127: se retira
+danydu0057@: iguala 0.05 €
+mivipkr: pasa
+*** FLOP *** [4c Qd 3c]
+danydu0057@: apuesta 0.19 €
+mivipkr: iguala 0.19 €
+*** TURN *** [4c Qd 3c] [Ah]
+danydu0057@: pasa
+mivipkr: pasa
+*** RIVER *** [4c Qd 3c Ah] [5s]
+danydu0057@: pasa
+mivipkr: pasa
+*** SHOW DOWN ***
+danydu0057@: muestra [Qs Tc] (pareja de damas)
+mivipkr: descarta su mano sin mostrar
+danydu0057@ se lleva 0.55 € del bote
+*** RESUMEN ***
+Bote total 0.58 € | Comisión 0.03 €
+Comunitarias [4c Qd 3c Ah 5s]
+Asiento 1: Sr.littel se retiró antes del Flop (no apostó)
+Asiento 2: noarones se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ (ciega pequeña) muestra [Qs Tc] y ganó (0.55 €) con pareja de damas
+Asiento 5: mivipkr (ciega grande) descartó sin mostrar [4s 6s]
+
+
+*********** n. 86 **************
+Mano n.º 258500357654 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:33:02 CET [13-11-2025 14:33:02 ET]
+Mesa "Sextans III" 6-max El asiento n.º 6 es el botón
+Asiento 1: noarones (17.75 € en fichas)
+Asiento 2: Vampire1566 (6.10 € en fichas)
+Asiento 4: SUB13000 (13.01 € en fichas)
+Asiento 5: NicoStar007 (11.15 € en fichas)
+Asiento 6: ramonyap (12.74 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+Vampire1566: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Th 7d]
+SUB13000 ha agotado su tiempo
+SUB13000: se retira
+NicoStar007: se retira
+ramonyap: se retira
+noarones: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a Vampire1566
+Vampire1566 se lleva 0.10 € del bote
+Vampire1566: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: noarones (ciega pequeña) se retiró antes del Flop
+Asiento 2: Vampire1566 (ciega grande) recaudó (0.10 €)
+Asiento 4: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 87 **************
+Mano n.º 258500355520 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:32:52 CET [13-11-2025 14:32:52 ET]
+Mesa "Themis III" 6-max El asiento n.º 5 es el botón
+Asiento 1: pinochopoker (13.17 € en fichas)
+Asiento 3: SUB13000 (12.14 € en fichas)
+Asiento 4: Heavengods (15.18 € en fichas)
+Asiento 5: anny road (9.85 € en fichas)
+Asiento 6: noarones (17.09 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+pinochopoker: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [7d Qs]
+noarones dijo, "ufff"
+SUB13000: se retira
+Heavengods: se retira
+anny road: sube 0.10 € a 0.20 €
+noarones: se retira
+pinochopoker: se retira
+La apuesta no igualada (0.10 €) ha sido devuelta a anny road
+anny road se lleva 0.25 € del bote
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0 €
+Asiento 1: pinochopoker (ciega grande) se retiró antes del Flop
+Asiento 3: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods se retiró antes del Flop (no apostó)
+Asiento 5: anny road (botón) recaudó (0.25 €)
+Asiento 6: noarones (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 88 **************
+Mano n.º 258500351711 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:32:36 CET [13-11-2025 14:32:36 ET]
+Mesa "Sextans III" 6-max El asiento n.º 5 es el botón
+Asiento 1: noarones (17.85 € en fichas)
+Asiento 2: Vampire1566 (6.10 € en fichas)
+Asiento 4: SUB13000 (13.01 € en fichas)
+Asiento 5: NicoStar007 (11.15 € en fichas)
+Asiento 6: ramonyap (12.64 € en fichas)
+ramonyap: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [5c 8c]
+Vampire1566: se retira
+SUB13000: se retira
+NicoStar007: se retira
+ramonyap: sube 0.20 € a 0.30 €
+noarones dijo, "f"
+AnxoGM se une a la mesa en el asiento n.º 3
+noarones: se retira
+La apuesta no igualada (0.20 €) ha sido devuelta a ramonyap
+ramonyap se lleva 0.20 € del bote
+ramonyap: no muestra su mano
+*** RESUMEN ***
+Bote total 0.20 € | Comisión 0 €
+Asiento 1: noarones (ciega grande) se retiró antes del Flop
+Asiento 2: Vampire1566 se retiró antes del Flop (no apostó)
+Asiento 4: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 (botón) se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap (ciega pequeña) recaudó (0.20 €)
+
+
+*********** n. 89 **************
+Mano n.º 258500350208 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:32:30 CET [13-11-2025 14:32:30 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 2 es el botón
+Asiento 1: Sr.littel (9.95 € en fichas)
+Asiento 2: noarones (14.60 € en fichas)
+Asiento 3: GabVal3127 (18.44 € en fichas)
+Asiento 4: danydu0057@ (7.02 € en fichas)
+Asiento 5: mivipkr (20.21 € en fichas)
+GabVal3127: pone la ciega pequeña 0.05 €
+danydu0057@: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [9h Ah]
+mivipkr: se retira
+Sr.littel: sube 0.15 € a 0.25 €
+noarones: se retira
+Hard0Shade se une a la mesa en el asiento n.º 6
+GabVal3127: iguala 0.20 €
+danydu0057@: se retira
+*** FLOP *** [Th 3s 5s]
+GabVal3127: pasa
+Sr.littel: apuesta 0.18 €
+GabVal3127: se retira
+La apuesta no igualada (0.18 €) ha sido devuelta a Sr.littel
+Sr.littel se lleva 0.56 € del bote
+Sr.littel: no muestra su mano
+*** RESUMEN ***
+Bote total 0.60 € | Comisión 0.04 €
+Comunitarias [Th 3s 5s]
+Asiento 1: Sr.littel recaudó (0.56 €)
+Asiento 2: noarones (botón) se retiró antes del Flop (no apostó)
+Asiento 3: GabVal3127 (ciega pequeña) se retiró en el Flop
+Asiento 4: danydu0057@ (ciega grande) se retiró antes del Flop
+Asiento 5: mivipkr se retiró antes del Flop (no apostó)
+
+
+*********** n. 90 **************
+Mano n.º 258500347483 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:32:18 CET [13-11-2025 14:32:18 ET]
+Mesa "Sextans III" 6-max El asiento n.º 4 es el botón
+Asiento 1: noarones (17.85 € en fichas)
+Asiento 2: Vampire1566 (6.10 € en fichas)
+Asiento 4: SUB13000 (13.01 € en fichas)
+Asiento 5: NicoStar007 (11.05 € en fichas)
+Asiento 6: ramonyap (12.74 € en fichas)
+NicoStar007: pone la ciega pequeña 0.05 €
+ramonyap: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [9c 7d]
+noarones: se retira
+Vampire1566: se retira
+SUB13000: se retira
+NicoStar007: sube 0.10 € a 0.20 €
+ramonyap: se retira
+La apuesta no igualada (0.10 €) ha sido devuelta a NicoStar007
+NicoStar007 se lleva 0.20 € del bote
+NicoStar007: no muestra su mano
+*** RESUMEN ***
+Bote total 0.20 € | Comisión 0 €
+Asiento 1: noarones se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 se retiró antes del Flop (no apostó)
+Asiento 4: SUB13000 (botón) se retiró antes del Flop (no apostó)
+Asiento 5: NicoStar007 (ciega pequeña) recaudó (0.20 €)
+Asiento 6: ramonyap (ciega grande) se retiró antes del Flop
+
+
+*********** n. 91 **************
+Mano n.º 258500347093 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:32:17 CET [13-11-2025 14:32:17 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 1 es el botón
+Asiento 1: Sr.littel (9.95 € en fichas)
+Asiento 2: noarones (14.65 € en fichas)
+Asiento 3: GabVal3127 (18.39 € en fichas)
+Asiento 4: danydu0057@ (7.02 € en fichas)
+Asiento 5: mivipkr (20.21 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+GabVal3127: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [8c 7d]
+danydu0057@: se retira
+mivipkr: se retira
+Sr.littel: se retira
+noarones: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a GabVal3127
+GabVal3127 se lleva 0.10 € del bote
+GabVal3127: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: Sr.littel (botón) se retiró antes del Flop (no apostó)
+Asiento 2: noarones (ciega pequeña) se retiró antes del Flop
+Asiento 3: GabVal3127 (ciega grande) recaudó (0.10 €)
+Asiento 4: danydu0057@ se retiró antes del Flop (no apostó)
+Asiento 5: mivipkr se retiró antes del Flop (no apostó)
+
+
+*********** n. 92 **************
+Mano n.º 258500345406 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:32:09 CET [13-11-2025 14:32:09 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 3 es el botón
+Asiento 1: alhambra111 (10.19 € en fichas)
+Asiento 2: RemiC27 (8 € en fichas)
+Asiento 3: pintas76 (10.63 € en fichas)
+Asiento 4: Capeeeee (10.16 € en fichas)
+Asiento 5: Babu_Sloth (23.48 € en fichas)
+Asiento 6: noarones (10 € en fichas)
+Capeeeee: pone la ciega pequeña 0.05 €
+Babu_Sloth: pone la ciega grande 0.10 €
+RemiC27: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Js 7c]
+noarones: se retira
+alhambra111: se retira
+RemiC27: pasa
+pintas76: se retira
+Capeeeee: iguala 0.05 €
+Babu_Sloth: sube 0.10 € a 0.20 €
+RemiC27: iguala 0.10 €
+Capeeeee: iguala 0.10 €
+*** FLOP *** [7d Th 9s]
+Capeeeee: pasa
+Babu_Sloth: pasa
+RemiC27: apuesta 0.56 €
+Capeeeee: iguala 0.56 €
+Babu_Sloth: se retira
+*** TURN *** [7d Th 9s] [4s]
+Capeeeee: pasa
+RemiC27: apuesta 1.62 €
+Capeeeee: iguala 1.62 €
+*** RIVER *** [7d Th 9s 4s] [Qc]
+Capeeeee: pasa
+RemiC27: pasa
+*** SHOW DOWN ***
+Capeeeee: muestra [8c Jc] (escalera, de ocho a dama)
+RemiC27: descarta su mano sin mostrar
+Capeeeee se lleva 4.66 € del bote
+*** RESUMEN ***
+Bote total 4.96 € | Comisión 0.30 €
+Comunitarias [7d Th 9s 4s Qc]
+Asiento 1: alhambra111 se retiró antes del Flop (no apostó)
+Asiento 2: RemiC27 descartó sin mostrar [Td Jh]
+Asiento 3: pintas76 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: Capeeeee (ciega pequeña) muestra [8c Jc] y ganó (4.66 €) con escalera, de ocho a dama
+Asiento 5: Babu_Sloth (ciega grande) se retiró en el Flop
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 93 **************
+Mano n.º 258500343656 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:32:02 CET [13-11-2025 14:32:02 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 5 es el botón
+Asiento 1: Sr.littel (10 € en fichas)
+Asiento 2: noarones (14.60 € en fichas)
+Asiento 3: GabVal3127 (18.39 € en fichas)
+Asiento 4: danydu0057@ (7.02 € en fichas)
+Asiento 5: mivipkr (20.21 € en fichas)
+Sr.littel: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [7h 9d]
+guerra123411 se une a la mesa en el asiento n.º 6
+GabVal3127: se retira
+danydu0057@: se retira
+guerra123411 deja la mesa
+mivipkr: se retira
+Sr.littel: se retira
+La apuesta no igualada (0.05 €) ha sido devuelta a noarones
+noarones se lleva 0.10 € del bote
+noarones: no muestra su mano
+*** RESUMEN ***
+Bote total 0.10 € | Comisión 0 €
+Asiento 1: Sr.littel (ciega pequeña) se retiró antes del Flop
+Asiento 2: noarones (ciega grande) recaudó (0.10 €)
+Asiento 3: GabVal3127 se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ se retiró antes del Flop (no apostó)
+Asiento 5: mivipkr (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 94 **************
+Mano n.º 258500338835 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:31:41 CET [13-11-2025 14:31:41 ET]
+Mesa "Sextans III" 6-max El asiento n.º 2 es el botón
+Asiento 1: noarones (17.85 € en fichas)
+Asiento 2: Vampire1566 (6.10 € en fichas)
+Asiento 4: SUB13000 (13.31 € en fichas)
+Asiento 5: NicoStar007 (10.79 € en fichas)
+Asiento 6: ramonyap (12.74 € en fichas)
+A guerra123411 se le permitirá jugar después del botón
+SUB13000: pone la ciega pequeña 0.05 €
+NicoStar007: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [5c Ad]
+ramonyap: se retira
+guerra123411 deja la mesa
+noarones: se retira
+Vampire1566: se retira
+SUB13000: sube 0.20 € a 0.30 €
+NicoStar007: iguala 0.20 €
+*** FLOP *** [Ah 3h 5d]
+SUB13000: pasa
+NicoStar007: apuesta 0.18 €
+SUB13000: se retira
+La apuesta no igualada (0.18 €) ha sido devuelta a NicoStar007
+NicoStar007 se lleva 0.56 € del bote
+NicoStar007: no muestra su mano
+*** RESUMEN ***
+Bote total 0.60 € | Comisión 0.04 €
+Comunitarias [Ah 3h 5d]
+Asiento 1: noarones se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 (botón) se retiró antes del Flop (no apostó)
+Asiento 4: SUB13000 (ciega pequeña) se retiró en el Flop
+Asiento 5: NicoStar007 (ciega grande) recaudó (0.56 €)
+Asiento 6: ramonyap se retiró antes del Flop (no apostó)
+
+
+*********** n. 95 **************
+Mano n.º 258500338733 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:31:41 CET [13-11-2025 14:31:41 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 1 es el botón
+Asiento 1: alhambra111 (10.39 € en fichas)
+Asiento 3: pintas76 (10.13 € en fichas)
+Asiento 4: Capeeeee (10.26 € en fichas)
+Asiento 5: Babu_Sloth (23.68 € en fichas)
+Asiento 6: noarones (10 € en fichas)
+pintas76: pone la ciega pequeña 0.05 €
+Capeeeee: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [As 6s]
+Babu_Sloth: sube 0.10 € a 0.20 €
+noarones: se retira
+alhambra111: iguala 0.20 €
+RemiC27 se une a la mesa en el asiento n.º 2
+pintas76: sube 0.70 € a 0.90 €
+Capeeeee: se retira
+Babu_Sloth: se retira
+alhambra111: se retira
+La apuesta no igualada (0.70 €) ha sido devuelta a pintas76
+pintas76 se lleva 0.70 € del bote
+pintas76: no muestra su mano
+*** RESUMEN ***
+Bote total 0.70 € | Comisión 0 €
+Asiento 1: alhambra111 (botón) se retiró antes del Flop
+Asiento 3: pintas76 (ciega pequeña) recaudó (0.70 €)
+Asiento 4: Capeeeee (ciega grande) se retiró antes del Flop
+Asiento 5: Babu_Sloth se retiró antes del Flop
+Asiento 6: noarones se retiró antes del Flop (no apostó)
+
+
+*********** n. 96 **************
+Mano n.º 258500336333 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:31:30 CET [13-11-2025 14:31:30 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 6 es el botón
+Asiento 1: alhambra111 (10.44 € en fichas)
+Asiento 3: pintas76 (10.23 € en fichas)
+Asiento 4: Capeeeee (10.26 € en fichas)
+Asiento 5: Babu_Sloth (23.53 € en fichas)
+Asiento 6: noarones (10 € en fichas)
+alhambra111: pone la ciega pequeña 0.05 €
+pintas76: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [7h 8h]
+Capeeeee: se retira
+Pechugooo deja la mesa
+Babu_Sloth: sube 0.10 € a 0.20 €
+noarones: se retira
+alhambra111: se retira
+pintas76: se retira
+La apuesta no igualada (0.10 €) ha sido devuelta a Babu_Sloth
+Babu_Sloth se lleva 0.25 € del bote
+Babu_Sloth: no muestra su mano
+*** RESUMEN ***
+Bote total 0.25 € | Comisión 0 €
+Asiento 1: alhambra111 (ciega pequeña) se retiró antes del Flop
+Asiento 3: pintas76 (ciega grande) se retiró antes del Flop
+Asiento 4: Capeeeee se retiró antes del Flop (no apostó)
+Asiento 5: Babu_Sloth recaudó (0.25 €)
+Asiento 6: noarones (botón) se retiró antes del Flop (no apostó)
+
+
+*********** n. 97 **************
+Mano n.º 258500335217 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:31:25 CET [13-11-2025 14:31:25 ET]
+Mesa "Themis III" 6-max El asiento n.º 4 es el botón
+Asiento 1: pinochopoker (13.17 € en fichas)
+Asiento 3: SUB13000 (12.14 € en fichas)
+Asiento 4: Heavengods (15.23 € en fichas)
+Asiento 5: anny road (9.90 € en fichas)
+Asiento 6: noarones (17.13 € en fichas)
+anny road: pone la ciega pequeña 0.05 €
+noarones: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [As 5s]
+pinochopoker: se retira
+SUB13000: se retira
+Heavengods: sube 0.14 € a 0.24 €
+anny road: se retira
+noarones: iguala 0.14 €
+*** FLOP *** [Ad 8h Ts]
+noarones: pasa
+Heavengods: apuesta 0.17 €
+noarones: sube 0.17 € a 0.34 €
+Heavengods: iguala 0.17 €
+*** TURN *** [Ad 8h Ts] [Jd]
+noarones: apuesta 0.57 €
+Heavengods: iguala 0.57 €
+*** RIVER *** [Ad 8h Ts Jd] [2h]
+noarones dijo, "bua"
+noarones dijo, "tngo 8 10"
+noarones dijo, "pero nse si gano"
+noarones: pasa
+Heavengods: pasa
+*** SHOW DOWN ***
+noarones: muestra [As 5s] (pareja de ases)
+Heavengods: muestra [5c Ah] (pareja de ases)
+noarones se lleva 1.11 € del bote
+Heavengods se lleva 1.10 € del bote
+*** RESUMEN ***
+Bote total 2.35 € | Comisión 0.14 €
+Comunitarias [Ad 8h Ts Jd 2h]
+Asiento 1: pinochopoker se retiró antes del Flop (no apostó)
+Asiento 3: SUB13000 se retiró antes del Flop (no apostó)
+Asiento 4: Heavengods (botón) muestra [5c Ah] y ganó (1.10 €) con pareja de ases
+Asiento 5: anny road (ciega pequeña) se retiró antes del Flop
+Asiento 6: noarones (ciega grande) muestra [As 5s] y ganó (1.11 €) con pareja de ases
+
+
+*********** n. 98 **************
+Mano n.º 258500334070 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:31:21 CET [13-11-2025 14:31:21 ET]
+Mesa "Sadalmelik II" 6-max El asiento n.º 4 es el botón
+Asiento 1: Sr.littel (10 € en fichas)
+Asiento 2: noarones (14.85 € en fichas)
+Asiento 3: GabVal3127 (18.39 € en fichas)
+Asiento 4: danydu0057@ (6.62 € en fichas)
+Asiento 5: mivipkr (20.26 € en fichas)
+mivipkr: pone la ciega pequeña 0.05 €
+Sr.littel: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [8h Ah]
+aitorpoker9 deja la mesa
+noarones: sube 0.15 € a 0.25 €
+GabVal3127: se retira
+danydu0057@: sube 6.37 € a 6.62 € y está all-in
+mivipkr: se retira
+Sr.littel: se retira
+noarones: se retira
+La apuesta no igualada (6.37 €) ha sido devuelta a danydu0057@
+danydu0057@ se lleva 0.65 € del bote
+*** RESUMEN ***
+Bote total 0.65 € | Comisión 0 €
+Asiento 1: Sr.littel (ciega grande) se retiró antes del Flop
+Asiento 2: noarones se retiró antes del Flop
+Asiento 3: GabVal3127 se retiró antes del Flop (no apostó)
+Asiento 4: danydu0057@ (botón) recaudó (0.65 €)
+Asiento 5: mivipkr (ciega pequeña) se retiró antes del Flop
+
+
+*********** n. 99 **************
+Mano n.º 258500332395 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:31:13 CET [13-11-2025 14:31:13 ET]
+Mesa "Sextans III" 6-max El asiento n.º 1 es el botón
+Asiento 1: noarones (17.85 € en fichas)
+Asiento 2: Vampire1566 (6 € en fichas)
+Asiento 4: SUB13000 (13.41 € en fichas)
+Asiento 5: NicoStar007 (10.79 € en fichas)
+Asiento 6: ramonyap (12.74 € en fichas)
+Vampire1566: pone la ciega pequeña 0.05 €
+SUB13000: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [Ah 9s]
+NicoStar007: se retira
+ramonyap: se retira
+noarones: se retira
+13Rochu deja la mesa
+Vampire1566: sube 0.10 € a 0.20 €
+SUB13000: se retira
+La apuesta no igualada (0.10 €) ha sido devuelta a Vampire1566
+Vampire1566 se lleva 0.20 € del bote
+guerra123411 se une a la mesa en el asiento n.º 3
+Vampire1566: no muestra su mano
+*** RESUMEN ***
+Bote total 0.20 € | Comisión 0 €
+Asiento 1: noarones (botón) se retiró antes del Flop (no apostó)
+Asiento 2: Vampire1566 (ciega pequeña) recaudó (0.20 €)
+Asiento 4: SUB13000 (ciega grande) se retiró antes del Flop
+Asiento 5: NicoStar007 se retiró antes del Flop (no apostó)
+Asiento 6: ramonyap se retiró antes del Flop (no apostó)
+
+
+*********** n. 100 **************
+Mano n.º 258500327923 de PokerStars:  Hold'em No Limit (0.05 €/0.10 € EUR) - 13-11-2025 20:30:54 CET [13-11-2025 14:30:54 ET]
+Mesa "Kreusa II" 6-max El asiento n.º 5 es el botón
+Asiento 1: alhambra111 (10 € en fichas)
+Asiento 3: pintas76 (10.23 € en fichas)
+Asiento 4: Capeeeee (10.26 € en fichas)
+Asiento 5: Babu_Sloth (23.98 € en fichas)
+Asiento 6: noarones (10.05 € en fichas)
+noarones: pone la ciega pequeña 0.05 €
+alhambra111: pone la ciega grande 0.10 €
+*** CARTAS DE MANO ***
+Repartidas a noarones [8h 3c]
+pintas76: se retira
+Capeeeee: se retira
+Babu_Sloth: iguala 0.10 €
+noarones: se retira
+alhambra111: pasa
+*** FLOP *** [2c Jd 9s]
+alhambra111: pasa
+Babu_Sloth: apuesta 0.12 €
+alhambra111: iguala 0.12 €
+*** TURN *** [2c Jd 9s] [Kh]
+alhambra111: pasa
+Babu_Sloth: apuesta 0.23 €
+alhambra111: iguala 0.23 €
+*** RIVER *** [2c Jd 9s Kh] [7c]
+alhambra111: pasa
+Babu_Sloth: pasa
+*** SHOW DOWN ***
+alhambra111: muestra [Js 3h] (pareja de jotas)
+Babu_Sloth: descarta su mano sin mostrar
+alhambra111 se lleva 0.89 € del bote
+*** RESUMEN ***
+Bote total 0.95 € | Comisión 0.06 €
+Comunitarias [2c Jd 9s Kh 7c]
+Asiento 1: alhambra111 (ciega grande) muestra [Js 3h] y ganó (0.89 €) con pareja de jotas
+Asiento 3: pintas76 se retiró antes del Flop (no apostó)
+Asiento 4: Capeeeee se retiró antes del Flop (no apostó)
+Asiento 5: Babu_Sloth (botón) descartó sin mostrar [9h Qd]
+Asiento 6: noarones (ciega pequeña) se retiró antes del Flop
+
+
