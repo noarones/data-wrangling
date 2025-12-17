@@ -2,3 +2,4 @@
 *.egg-info
 dataset/
 *.db
+__pycache__/
